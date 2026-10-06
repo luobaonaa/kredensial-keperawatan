@@ -1,0 +1,13 @@
+USE db_keperawatan;
+
+CREATE TABLE IF NOT EXISTS bank_soal (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    jenis_tes VARCHAR(3) NOT NULL,
+    topik VARCHAR(255) NOT NULL,
+    judul VARCHAR(200) NOT NULL,
+    deskripsi TEXT NOT NULL,
+    pertanyaan LONGTEXT NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    UNIQUE KEY bank_soal_tahap_topik (jenis_tes, topik)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

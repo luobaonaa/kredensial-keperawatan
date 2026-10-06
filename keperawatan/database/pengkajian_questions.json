@@ -1,0 +1,90 @@
+[
+  {
+    "type": "essay",
+    "text": "1.1 Jelaskan pengertian pengkajian keperawatan dan tujuan dilakukannya pengkajian!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.2 Sebutkan sumber data dalam pengkajian keperawatan!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.3 Jelaskan perbedaan data subjektif dan data objektif serta berikan contohnya!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "2.1 Data yang disampaikan langsung oleh pasien disebut data:",
+    "options": [
+      "Objektif",
+      "Subjektif",
+      "Sekunder",
+      "Fisiologis",
+      "Laboratorium"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "2.2 Jelaskan langkah-langkah pengkajian keperawatan secara sistematis!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "2.3 Sebutkan teknik pengumpulan data yang digunakan dalam pengkajian pasien!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "3.1 Pemeriksaan untuk memperoleh data tentang kondisi fisik pasien dilakukan melalui:",
+    "options": [
+      "Observasi dan pemeriksaan fisik",
+      "Perkiraan tanpa pemeriksaan",
+      "Pendapat keluarga saja",
+      "Catatan pasien lain",
+      "Informasi dari media sosial"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "3.2 Jelaskan pemeriksaan fisik dengan metode inspeksi, palpasi, perkusi, dan auskultasi!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "3.3 Sebutkan komponen pengkajian tanda-tanda vital dan jelaskan cara pengukurannya!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.1 Jelaskan cara melakukan pengkajian kebutuhan personal hygiene pasien!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.2 Apa yang harus diperhatikan untuk menjaga privasi dan kenyamanan pasien selama pengkajian?",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "4.3 Prinsip utama saat melakukan wawancara pengkajian adalah:",
+    "options": [
+      "Menggunakan istilah yang sulit dipahami",
+      "Menjaga komunikasi terapeutik dan kerahasiaan pasien",
+      "Menyela setiap jawaban pasien",
+      "Mengabaikan budaya pasien",
+      "Menyampaikan data pasien kepada semua orang"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "5.1 Jelaskan cara memvalidasi data hasil pengkajian yang tidak sesuai atau meragukan!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "5.2 Sebutkan dokumentasi yang wajib dicatat setelah melakukan pengkajian pasien!",
+    "options": []
+  }
+]

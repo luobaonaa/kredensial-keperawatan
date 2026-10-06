@@ -1,0 +1,44 @@
+[
+  {
+    "type": "essay",
+    "text": "1. Tuliskan nama lengkap asesi, nama asesor, dan tanggal pelaksanaan asesmen!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "2. Tuliskan unit kompetensi atau kelompok unit kompetensi yang diajukan untuk dinilai!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "3. Tuliskan metode asesmen yang disepakati, misalnya observasi, lisan, tulis, portofolio, atau metode lain!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4. Tuliskan elemen kompetensi dan kriteria unjuk kerja yang menjadi dasar asesmen!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "5. Apakah asesi memahami proses asesmen dan metode yang digunakan?",
+    "options": [
+      "Ya",
+      "Tidak"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "6. Tuliskan catatan, kebutuhan khusus, atau penyesuaian asesmen yang disepakati!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "7. Keputusan akhir asesor terhadap hasil asesmen adalah:",
+    "options": [
+      "Kompeten",
+      "Belum Kompeten",
+      "Penilaian Lanjutan"
+    ]
+  }
+]

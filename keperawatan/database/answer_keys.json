@@ -1,0 +1,2062 @@
+{
+    "PK1": {
+        "Cairan Elektrolit": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "Rasa nyeri/ sakit\nKemerahan sebagian atau seluruh badan\nRasa gatal\nRasa panas\nBengkak pada bibir, wajah, atau seluruh tubuh\nPusing\nSakit perut, diare, muntah\nSesak nafas",
+                    "keywords": [
+                        "Rasa nyeri/ sakit",
+                        "Kemerahan sebagian atau seluruh badan",
+                        "Rasa gatal",
+                        "Rasa panas",
+                        "Bengkak pada bibir, wajah, atau seluruh tubuh",
+                        "Pusing",
+                        "Sakit perut, diare, muntah",
+                        "Sesak nafas"
+                    ],
+                    "min_keywords": 5,
+                    "weight": 1,
+                    "indicator": "Rasa nyeri/ sakit Kemerahan sebagian atau seluruh badan Rasa gatal Rasa panas Bengkak pada bibir, wajah, atau seluruh tubuh Pusing Sakit perut, diare, muntah Sesak nafas",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Water for Injection",
+                    "keywords": [
+                        "Water for Injection"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Water for Injection"
+                },
+                {
+                    "answer": "TPM (makro) = (jml cairan (ml) x 20/ (waktu (jam) x 60)\nTPM (makro) = (4320 x 20/ 8 x60 = 180 tpm",
+                    "keywords": [
+                        "TPM (makro) = (jml cairan (ml) x 20/ (waktu (jam) x 60)",
+                        "TPM (makro) = (4320 x 20/ 8 x60 = 180 tpm"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "TPM (makro) = (jml cairan (ml) x 20/ (waktu (jam) x 60) TPM (makro) = (4320 x 20/ 8 x60 = 180 tpm",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Cairan koloid adalah cairan yang terdiri dari molekul besar yang sulit untuk menembus membran kapiler kapiler.Biasanya digunakan untuk mengganti cairan yan hilang. Contoh: albumin, HES, dextran, KaEn IB\nCairan kristaloid adalah cairan yang mengandung natrium klorida, natrium glukonat, natrium asetat, kalium klorida, magnesium klorida, dan glukosa. Cairan kristaloid umumnya digunakan untuk mengembalikan kesimbangan elektrolit, mengembalikan pH, menghidrasi tubuh, dan sebagai cairan resusitasi. Contoh: NaCl 0,9 %, RL, Dextrose",
+                    "keywords": [
+                        "Cairan koloid adalah cairan yang terdiri dari molekul besar yang sulit untuk menembus membran kapiler kapiler.Biasanya digunakan untuk mengganti cairan yan hilang. Contoh: albumin, HES, dextran, KaEn IB",
+                        "Cairan kristaloid adalah cairan yang mengandung natrium klorida, natrium glukonat, natrium asetat, kalium klorida, magnesium klorida, dan glukosa. Cairan kristaloid umumnya digunakan untuk mengembalikan kesimbangan elektrolit, mengembalikan pH, menghidrasi tubuh, dan sebagai cairan resusitasi. Contoh: NaCl 0,9 %, RL, Dextrose"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Cairan koloid adalah cairan yang terdiri dari molekul besar yang sulit untuk menembus membran kapiler kapiler.Biasanya digunakan untuk mengganti cairan yan hilang. Contoh: albumin, HES, dextran, KaEn IB Cairan kristaloid adalah cairan yang mengandung natrium klorida, natrium glukonat, natrium asetat, kalium klorida, magnesium klorida, dan glukosa. Cairan kristaloid umumnya digunakan untuk mengembalikan kesimbangan elektrolit, mengembalikan pH, menghidrasi tubuh, dan sebagai cairan resusitasi. Contoh: NaCl 0,9 %, RL, Dextrose",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Jawaban: A.\nalasan: pasien yang mendapat terapi cairan hipertonis berisiko terhadap phlebitis kimiawi, sedangkan pasien yang menggunakan IV Catheter berlumen besar berisiko terhadap phlebitis mekanik karena  lumen IV catheter yang terlalu besar dapat mencederai tunika intima pembuluh darah. Oleh karena itu, sebaiknya pasien yang mendapat cairan hipertonis, jika tidak ada  kegawardaruratan lain (resusitasi), menggunakan IV catheter dengan lumen kecil untuk menghindari phlebitis mekanis.",
+                    "keywords": [
+                        "Jawaban",
+                        "alasan",
+                        "Oleh karena itu, sebaiknya pasien yang mendapat cairan hipertonis, jika tidak ada  kegawardaruratan lain (resusitasi), menggunakan IV catheter dengan lumen kecil untuk menghindari phlebitis mekanis."
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Jawaban: A. alasan: pasien yang mendapat terapi cairan hipertonis berisiko terhadap phlebitis kimiawi, sedangkan pasien yang menggunakan IV Catheter berlumen besar berisiko terhadap phlebitis mekanik karena lumen IV catheter yang terlalu besar dapat mencederai tunika intima pembuluh darah. Oleh karena itu, sebaiknya pasien yang mendapat cairan hipertonis, jika tidak ada kegawardaruratan lain (resusitasi), menggunakan IV catheter dengan lumen kecil untuk menghindari phlebitis mekanis.",
+                    "source_match": 0.55
+                },
+                {
+                    "answer": "Melihat instruksi dokter dalam rekam medis klien/ pasien\nMelihat lembar daftar obat yang sudah ditulis\nMemastikan dengan mengkonfirmasikan pada perawat senior atau PPJP",
+                    "keywords": [
+                        "Melihat instruksi dokter dalam rekam medis klien/ pasien",
+                        "Melihat lembar daftar obat yang sudah ditulis",
+                        "Memastikan dengan mengkonfirmasikan pada perawat senior atau PPJP"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Melihat instruksi dokter dalam rekam medis klien/ pasien Melihat lembar daftar obat yang sudah ditulis Memastikan dengan mengkonfirmasikan pada perawat senior atau PPJP",
+                    "source_match": 1
+                },
+                {
+                    "answer": "cairan hipotonik memiliki osmolaritas lebih rendah dari serum; cairan isotonik memiliki osmolaritas mendekati serum seperti NaCl 0,9 persen atau Ringer Laktat; cairan hipertonik memiliki osmolaritas lebih tinggi dari serum seperti NaCl 3 persen atau dekstrosa konsentrasi tinggi",
+                    "keywords": [
+                        "cairan hipotonik memiliki osmolaritas lebih rendah dari serum",
+                        "cairan isotonik memiliki osmolaritas mendekati serum seperti NaCl 0,9 persen atau Ringer Laktat",
+                        "cairan hipertonik memiliki osmolaritas lebih tinggi dari serum seperti NaCl 3 persen atau dekstrosa konsentrasi tinggi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "cairan hipotonik memiliki osmolaritas lebih rendah dari serum; cairan isotonik memiliki osmolaritas mendekati serum seperti NaCl 0,9 persen atau Ringer Laktat; cairan hipertonik memiliki osmolaritas lebih tinggi dari serum seperti NaCl 3 persen atau dekstrosa konsentrasi tinggi"
+                },
+                {
+                    "answer": "Mengatasi dehidrasi\nMempertahankan atau mengganti cairan tubuh\nMemperbaiki keseimbangan asam basa\nMemperbaiki volume-volume komponen darah\nMemberikan jalan masuk untuk obat-obatan ke dalam tubuh\nMemonitor CVP\nMemberikan nutrisi pada saat sistem pencernaan istirahat",
+                    "keywords": [
+                        "Mengatasi dehidrasi",
+                        "Mempertahankan atau mengganti cairan tubuh",
+                        "Memperbaiki keseimbangan asam basa",
+                        "Memperbaiki volume-volume komponen darah",
+                        "Memberikan jalan masuk untuk obat-obatan ke dalam tubuh",
+                        "Memonitor CVP",
+                        "Memberikan nutrisi pada saat sistem pencernaan istirahat"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Mengatasi dehidrasi Mempertahankan atau mengganti cairan tubuh Memperbaiki keseimbangan asam basa Memperbaiki volume-volume komponen darah Memberikan jalan masuk untuk obat-obatan ke dalam tubuh Memonitor CVP Memberikan nutrisi pada saat sistem pencernaan istirahat",
+                    "source_match": 1
+                },
+                {
+                    "answer": "125/1 x 60 x 12 tts/mnt= 25 tts/mnt",
+                    "keywords": [
+                        "125/1 x 60 x 12 tts/mnt= 25 tts/mnt"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "125/1 x 60 x 12 tts/mnt= 25 tts/mnt",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Jawaban:\nInput Cairan:\nInfus = 2000 cc\nTranfusi WB: 300 cc\nObat injeksi = 100 cc\nAM = 300 cc (5 cc x 60 kg) +\n———————————————\n2700 cc\nOutput cairan:\nDrainage = 100 cc\nNGT =  200 cc\nUrine  = 1700 cc\nIWL  = 900 cc (15 cc x 60 kg) +\n———————————————-\n2900 cc\nJadi Balance cairan Tn Y dalam 24 jam : Intake cairan – output cairan\n2700 cc – 2900 cc = 200 cc.",
+                    "keywords": [
+                        "Input Cairan",
+                        "Infus = 2000 cc",
+                        "Tranfusi WB",
+                        "Obat injeksi = 100 cc",
+                        "AM = 300 cc (5 cc x 60 kg) +",
+                        "———————————————",
+                        "2700 cc",
+                        "Output cairan",
+                        "Drainage = 100 cc",
+                        "NGT =  200 cc",
+                        "Urine  = 1700 cc",
+                        "IWL  = 900 cc (15 cc x 60 kg) +",
+                        "———————————————-",
+                        "2900 cc"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Jawaban: Input Cairan: Infus = 2000 cc Tranfusi WB: 300 cc Obat injeksi = 100 cc AM = 300 cc (5 cc x 60 kg) + ——————————————— 2700 cc Output cairan: Drainage = 100 cc NGT = 200 cc Urine = 1700 cc IWL = 900 cc (15 cc x 60 kg) + ———————————————- 2900 cc Jadi Balance cairan Tn Y dalam 24 jam : Intake cairan – output cairan 2700 cc – 2900 cc = 200 cc.",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Tidak terjadi aspirasi\nTidak ada undulasi/ udara yang keluar saat pangkal selang di letakkan di bengkok berisi air\nSaat diaspirasi keluar cairan lambung\nDistensi abdomen berkurang\nTidak ada keluhan mual dan muntah\nRasa nyeri berkurang",
+                    "keywords": [
+                        "Tidak terjadi aspirasi",
+                        "Tidak ada undulasi/ udara yang keluar saat pangkal selang di letakkan di bengkok berisi air",
+                        "Saat diaspirasi keluar cairan lambung",
+                        "Distensi abdomen berkurang",
+                        "Tidak ada keluhan mual dan muntah",
+                        "Rasa nyeri berkurang"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Tidak terjadi aspirasi Tidak ada undulasi/ udara yang keluar saat pangkal selang di letakkan di bengkok berisi air Saat diaspirasi keluar cairan lambung Distensi abdomen berkurang Tidak ada keluhan mual dan muntah Rasa nyeri berkurang",
+                    "source_match": 1
+                },
+                {
+                    "answer": "HGB: 12.0-16.0 g/dl/ 12-14\nHCT: 34-48%\nWBC: 4000-10.000\nPLT: 150.000-400.000",
+                    "keywords": [
+                        "HGB",
+                        "HCT",
+                        "WBC",
+                        "PLT"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "HGB: 12.0-16.0 g/dl/ 12-14 HCT: 34-48% WBC: 4000-10.000 PLT: 150.000-400.000",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Menghentikan pemasangan infus\nPosisikan pasien agar ventilasi maksimal sambil meminta bantuan\nBerikan oksigen\nLapor dokter jaga/ perawat senior",
+                    "keywords": [
+                        "Menghentikan pemasangan infus",
+                        "Posisikan pasien agar ventilasi maksimal sambil meminta bantuan",
+                        "Berikan oksigen",
+                        "Lapor dokter jaga/ perawat senior"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Menghentikan pemasangan infus Posisikan pasien agar ventilasi maksimal sambil meminta bantuan Berikan oksigen Lapor dokter jaga/ perawat senior",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Risiko perdarahan\nHYD: tidak terjadi perdarahan\nintervensi:\nmonitor tanda dan gejala perdarahan\nEdukasi pasien untuk bed rest\nbatasi tindakan invasif kp\nedukasi tanda dan gejala perdarahan ke pasien\nkolaborasi pemberian produk darah kp\nkolaborasi pemberian obat pengontrol perdarahan kp\nHipertermia\nHYD: suhu tubuh turun dalam rentang normal dalam waktu …\nIntervensi:\nmonitor tanda-tanda vital secara berkala\nmonitor intake dan output cairan sesuai kebutuhan pasien\nmonitor adanya komplikasi akibat demam, misalnya kejang, penurunan kesadaran, kadan elektrolit abnormal, dll)\ngunakan selimut atau pakaian yang tepat\nberikan oksigen, kp\nedukasi untuk tirah baring\nedukasi pasien untuk perbanyak minum\nkolaborasi pemberian cairan intravena kp\nkolaborasi pemberian antipiretik kp\nkolaborasi pemberian antibiotik kp",
+                    "keywords": [
+                        "Risiko perdarahan",
+                        "HYD",
+                        "intervensi",
+                        "monitor tanda dan gejala perdarahan",
+                        "Edukasi pasien untuk bed rest",
+                        "batasi tindakan invasif kp",
+                        "edukasi tanda dan gejala perdarahan ke pasien",
+                        "kolaborasi pemberian produk darah kp",
+                        "kolaborasi pemberian obat pengontrol perdarahan kp",
+                        "Hipertermia",
+                        "Intervensi",
+                        "monitor tanda-tanda vital secara berkala",
+                        "monitor intake dan output cairan sesuai kebutuhan pasien",
+                        "monitor adanya komplikasi akibat demam, misalnya kejang, penurunan kesadaran, kadan elektrolit abnormal, dll)"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Risiko perdarahan HYD: tidak terjadi perdarahan intervensi: monitor tanda dan gejala perdarahan Edukasi pasien untuk bed rest batasi tindakan invasif kp edukasi tanda dan gejala perdarahan ke pasien kolaborasi pemberian produk darah kp kolaborasi pemberian obat pengontrol perdarahan kp Hipertermia HYD: suhu tubuh turun dalam rentang normal dalam waktu … Intervensi: monitor tanda-tanda vital secara berkala monitor intake dan output cairan sesuai kebutuhan pasien monitor adanya komplikasi akibat demam, misalnya kejang, penurunan kesadaran, kadan elektrolit abnormal, dll) gunakan selimut atau pakaian yang tepat berikan oksigen, kp edukasi untuk tirah baring edukasi pasien untuk perbanyak minum kolaborasi pemberian cairan intravena kp kolaborasi pemberian antipiretik kp kolaborasi pemberian antibiotik kp",
+                    "source_match": 1
+                }
+            ]
+        },
+        "Eliminasi Urine": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C Penilaian Tulis Eliminasi Urin.docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "Inkontinensia urine (kondisi ketika dorongan berkemih tidak mampu dikontrol oleh sfingter ekternal)\nRetensi urine (tertahannya urine di kandung kemih akibat terganggunya proses pengosongan sehingga kandung kemih menjadi regang)\nEnuresis/ mengompol (peristiwa berkemih yang tidak disadari pada anak yang usianya melampaui batas usia normal kontrol kandung kemih seharusnya tercapai)\nSering berkemih (meningkatnya frekuensi berkemih tanpa disertai peningkatan asupan)\nUrgensi (perasaan yang kuat untuk berkemih)\nDisuria (rasa nyeri dan kesulitan saat berkemih)",
+                    "keywords": [
+                        "Inkontinensia urine (kondisi ketika dorongan berkemih tidak mampu dikontrol oleh sfingter ekternal)",
+                        "Retensi urine (tertahannya urine di kandung kemih akibat terganggunya proses pengosongan sehingga kandung kemih menjadi regang)",
+                        "Enuresis/ mengompol (peristiwa berkemih yang tidak disadari pada anak yang usianya melampaui batas usia normal kontrol kandung kemih seharusnya tercapai)",
+                        "Sering berkemih (meningkatnya frekuensi berkemih tanpa disertai peningkatan asupan)",
+                        "Urgensi (perasaan yang kuat untuk berkemih)",
+                        "Disuria (rasa nyeri dan kesulitan saat berkemih)"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Inkontinensia urine (kondisi ketika dorongan berkemih tidak mampu dikontrol oleh sfingter ekternal) Retensi urine (tertahannya urine di kandung kemih akibat terganggunya proses pengosongan sehingga kandung kemih menjadi regang) Enuresis/ mengompol (peristiwa berkemih yang tidak disadari pada anak yang usianya melampaui batas usia normal kontrol kandung kemih seharusnya tercapai) Sering berkemih (meningkatnya frekuensi berkemih tanpa disertai peningkatan asupan) Urgensi (perasaan yang kuat untuk berkemih) Disuria (rasa nyeri dan kesulitan saat berkemih)",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Warna (jenih kekuningan)\nPenampilan (jernih)\nBau (beraroma)\npH (4,5-8.0)\nBerat jenis (1,005-1,030)\nGlukosa (negatif)\nKeton (negatif)",
+                    "keywords": [
+                        "Warna (jenih kekuningan)",
+                        "Penampilan (jernih)",
+                        "Bau (beraroma)",
+                        "pH (4,5-8.0)",
+                        "Berat jenis (1,005-1,030)",
+                        "Glukosa (negatif)",
+                        "Keton (negatif)"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Warna (jenih kekuningan) Penampilan (jernih) Bau (beraroma) pH (4,5-8.0) Berat jenis (1,005-1,030) Glukosa (negatif) Keton (negatif)",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Perubahan pola eliminasi\nGangguan eliminasi urin\nInkontninesia\nGangguan rasa nyaman nyeri\nRisiko infeksi",
+                    "keywords": [
+                        "Perubahan pola eliminasi",
+                        "Gangguan eliminasi urin",
+                        "Inkontninesia",
+                        "Gangguan rasa nyaman nyeri",
+                        "Risiko infeksi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Perubahan pola eliminasi Gangguan eliminasi urin Inkontninesia Gangguan rasa nyaman nyeri Risiko infeksi",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Jawaban: e\nKlien dengan keadaan edema dianjurkan untuk penggunaan diuretik jika pembatasan diet natrium saja tidak cukup untuk mengurangi edema dengan mencegah reabsorbsi natrium dan air oleh ginjal. Pilihan diuretik didasarkan pada keparahan keadaan hipervolemik, tingkat kerusakan fungsi renal, dan kepatenan diuretik. Umumnya diuretik golongan tiasid diresepkan untuk hipervolemia ringan sampai sedang, diuretik koo untuk hipervolemia berat",
+                    "keywords": [
+                        "Jawaban",
+                        "Pilihan diuretik didasarkan pada keparahan keadaan hipervolemik, tingkat kerusakan fungsi renal, dan kepatenan diuretik.",
+                        "Umumnya diuretik golongan tiasid diresepkan untuk hipervolemia ringan sampai sedang, diuretik koo untuk hipervolemia berat"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Jawaban: e Klien dengan keadaan edema dianjurkan untuk penggunaan diuretik jika pembatasan diet natrium saja tidak cukup untuk mengurangi edema dengan mencegah reabsorbsi natrium dan air oleh ginjal. Pilihan diuretik didasarkan pada keparahan keadaan hipervolemik, tingkat kerusakan fungsi renal, dan kepatenan diuretik. Umumnya diuretik golongan tiasid diresepkan untuk hipervolemia ringan sampai sedang, diuretik koo untuk hipervolemia berat",
+                    "source_match": 0.83
+                },
+                {
+                    "answer": "Penyakitnya\nPengalaman operasi terdahulu/ sebelumnya\nTujuan operasi dan tindakan operasi\nPersiapan operasi baik fisik maupun penunjang\nSituasi, kondisi, dan petugas kamar operasi\nLatihan yang harus dilakukan (mobilisasi, batuk efektif, nyeri: teknik relaksasi)",
+                    "keywords": [
+                        "Penyakitnya",
+                        "Pengalaman operasi terdahulu/ sebelumnya",
+                        "Tujuan operasi dan tindakan operasi",
+                        "Persiapan operasi baik fisik maupun penunjang",
+                        "Situasi, kondisi, dan petugas kamar operasi",
+                        "Latihan yang harus dilakukan (mobilisasi, batuk efektif, nyeri"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Penyakitnya Pengalaman operasi terdahulu/ sebelumnya Tujuan operasi dan tindakan operasi Persiapan operasi baik fisik maupun penunjang Situasi, kondisi, dan petugas kamar operasi Latihan yang harus dilakukan (mobilisasi, batuk efektif, nyeri: teknik relaksasi)",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Inkontinensia urine adalah kondisi ketika dorongan berkemih tidak mampu dikontrol oleh spfingter eksternal",
+                    "keywords": [
+                        "Inkontinensia urine adalah kondisi ketika dorongan berkemih tidak mampu dikontrol oleh spfingter eksternal"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Inkontinensia urine adalah kondisi ketika dorongan berkemih tidak mampu dikontrol oleh spfingter eksternal",
+                    "source_match": 1
+                },
+                {
+                    "answer": "SPO vulva hygiene terlampir",
+                    "keywords": [
+                        "SPO vulva hygiene terlampir"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "SPO vulva hygiene terlampir",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Troley tindakan\nSpuit 20 ml/ 10 ml\nNear bekken\nKantong plastik kuning untuk sampah medis\nUnderpad/ perlak\nSarung tangan nonsteril",
+                    "keywords": [
+                        "Troley tindakan",
+                        "Spuit 20 ml/ 10 ml",
+                        "Near bekken",
+                        "Kantong plastik kuning untuk sampah medis",
+                        "Underpad/ perlak",
+                        "Sarung tangan nonsteril"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Troley tindakan Spuit 20 ml/ 10 ml Near bekken Kantong plastik kuning untuk sampah medis Underpad/ perlak Sarung tangan nonsteril",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Menjelaskan pengendalian infeksi (cuci tangan dan prinsip steril)\nMenjelaskan tujuan perawatan kateter urine\nMenjelaskan masalah/ komplikasi yang mungkin terjadi akibat pemasangan kateter urine\nMenjelaksan kondisi-kondisi yang harus dilaporkan (demam, nyeri perut bawah, warna urine berubah keruh/ merah, tak ada urine lebih dari 2 jam)\nMenjelaskan/ demonstrasi cara membersihkan daerah perineum ( wanita dan laki-laki)",
+                    "keywords": [
+                        "Menjelaskan pengendalian infeksi (cuci tangan dan prinsip steril)",
+                        "Menjelaskan tujuan perawatan kateter urine",
+                        "Menjelaskan masalah/ komplikasi yang mungkin terjadi akibat pemasangan kateter urine",
+                        "Menjelaksan kondisi-kondisi yang harus dilaporkan (demam, nyeri perut bawah, warna urine berubah keruh/ merah, tak ada urine lebih dari 2 jam)",
+                        "Menjelaskan/ demonstrasi cara membersihkan daerah perineum ( wanita dan laki-laki)"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Menjelaskan pengendalian infeksi (cuci tangan dan prinsip steril) Menjelaskan tujuan perawatan kateter urine Menjelaskan masalah/ komplikasi yang mungkin terjadi akibat pemasangan kateter urine Menjelaksan kondisi-kondisi yang harus dilaporkan (demam, nyeri perut bawah, warna urine berubah keruh/ merah, tak ada urine lebih dari 2 jam) Menjelaskan/ demonstrasi cara membersihkan daerah perineum ( wanita dan laki-laki)",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Mencatat tanggal dan jam pemasangan pada keteter, dan dokumentasikan seluruh kegiatan pada catatan keperawatan\nObservasi jumlah urine, warna urine\nHati-hati agar katetertidak masuk pada liang wagina saat pemasangan pada pasien perempuan, terutama pada perempuan yang belum menikah\nRasa nyeri yang ditimbulkan",
+                    "keywords": [
+                        "Mencatat tanggal dan jam pemasangan pada keteter, dan dokumentasikan seluruh kegiatan pada catatan keperawatan",
+                        "Observasi jumlah urine, warna urine",
+                        "Hati-hati agar katetertidak masuk pada liang wagina saat pemasangan pada pasien perempuan, terutama pada perempuan yang belum menikah",
+                        "Rasa nyeri yang ditimbulkan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Mencatat tanggal dan jam pemasangan pada keteter, dan dokumentasikan seluruh kegiatan pada catatan keperawatan Observasi jumlah urine, warna urine Hati-hati agar katetertidak masuk pada liang wagina saat pemasangan pada pasien perempuan, terutama pada perempuan yang belum menikah Rasa nyeri yang ditimbulkan",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Furosemid berguna untuk mengurangi sesak dengan cara mengeluerkan kelebihan cairan di paru-paru. Adapun efeksamping dari furosemid adalah apasien akan sering BAK, sehingga ditawarkan pemasanggan kateter dan batasi minum\nMelihat instruksi dokter untuk pemberian obat dalam rekam medis pasien\nMelihat formulir pemberian obat yang sudah diisi\nKonfirmasi pada perawat senior\nKonfirmasi dokter via telepon dengan menggunakan  metode TBAK",
+                    "keywords": [
+                        "Furosemid berguna untuk mengurangi sesak dengan cara mengeluerkan kelebihan cairan di paru-paru. Adapun efeksamping dari furosemid adalah apasien akan sering BAK, sehingga ditawarkan pemasanggan kateter dan batasi minum",
+                        "Melihat instruksi dokter untuk pemberian obat dalam rekam medis pasien",
+                        "Melihat formulir pemberian obat yang sudah diisi",
+                        "Konfirmasi pada perawat senior",
+                        "Konfirmasi dokter via telepon dengan menggunakan  metode TBAK"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Furosemid berguna untuk mengurangi sesak dengan cara mengeluerkan kelebihan cairan di paru-paru. Adapun efeksamping dari furosemid adalah apasien akan sering BAK, sehingga ditawarkan pemasanggan kateter dan batasi minum Melihat instruksi dokter untuk pemberian obat dalam rekam medis pasien Melihat formulir pemberian obat yang sudah diisi Konfirmasi pada perawat senior Konfirmasi dokter via telepon dengan menggunakan metode TBAK",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Letakkan perlak atau pengalas di bawah bokong klien\nLepaskan pakaian bawah klien, dan beri posisi yang sama saat membersihkan perineum (bila klien dibantu)\nBersihkan perineum dan genitalia dengan air hangat, sabun, dan washlap, serta keringkan dengan handuk bawah\nAnjurkan klien untuk mengeluarkan urin dan tampung urin pada pispot. Minta klien untuk menahan berkemih. Tampung urin selanjutnya pada bokal steril sekitar 10 – 20 cc, dan biarkan klien menyelesaikan berkemih dalam urinal.",
+                    "keywords": [
+                        "Letakkan perlak atau pengalas di bawah bokong klien",
+                        "Lepaskan pakaian bawah klien, dan beri posisi yang sama saat membersihkan perineum (bila klien dibantu)",
+                        "Bersihkan perineum dan genitalia dengan air hangat, sabun, dan washlap, serta keringkan dengan handuk bawah",
+                        "Anjurkan klien untuk mengeluarkan urin dan tampung urin pada pispot. Minta klien untuk menahan berkemih. Tampung urin selanjutnya pada bokal steril sekitar 10 – 20 cc, dan biarkan klien menyelesaikan berkemih dalam urinal."
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Letakkan perlak atau pengalas di bawah bokong klien Lepaskan pakaian bawah klien, dan beri posisi yang sama saat membersihkan perineum (bila klien dibantu) Bersihkan perineum dan genitalia dengan air hangat, sabun, dan washlap, serta keringkan dengan handuk bawah Anjurkan klien untuk mengeluarkan urin dan tampung urin pada pispot. Minta klien untuk menahan berkemih. Tampung urin selanjutnya pada bokal steril sekitar 10 – 20 cc, dan biarkan klien menyelesaikan berkemih dalam urinal.",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Intake= Oral: 600 cc + infus: 825 cc= 1425 cc\nOut put= urin: 1000 cc\nIWL: 20 x 20 kg x 7 : 24= 1118,67=1119\nBalance cairan: 1425-1119= + 306",
+                    "keywords": [
+                        "Intake= Oral",
+                        "Out put= urin",
+                        "IWL",
+                        "Balance cairan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Intake= Oral: 600 cc + infus: 825 cc= 1425 cc Out put= urin: 1000 cc IWL: 20 x 20 kg x 7 : 24= 1118,67=1119 Balance cairan: 1425-1119= + 306",
+                    "source_match": 1
+                },
+                {
+                    "answer": "hipertensi; edema atau pembengkakan; proteinuria atau protein urine positif",
+                    "keywords": [
+                        "hipertensi",
+                        "edema atau pembengkakan",
+                        "proteinuria atau protein urine positif"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "hipertensi; edema atau pembengkakan; proteinuria atau protein urine positif"
+                },
+                {
+                    "answer": "15 x BB/ 24 jam",
+                    "keywords": [
+                        "15 x BB/ 24 jam"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "15 x BB/ 24 jam",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Tanda dan gejala ISK bagian bawah (sistiyis)\nNyeri yang sering dan rasa panas ketika berkemih\nSpasme pada area kangdung kemih dan suprapubis\nHematuri\nNyeri pinggang dapat terjadi\nTanda dan gejala ISK bagian atas (phielonefritis)\nDemam\nmenggigil\nNyeri panggul dan pinggang\nNyeri ketika berkemih\nMalaise\nPusing\nMual dan muntah",
+                    "keywords": [
+                        "Tanda dan gejala ISK bagian bawah (sistiyis)",
+                        "Nyeri yang sering dan rasa panas ketika berkemih",
+                        "Spasme pada area kangdung kemih dan suprapubis",
+                        "Hematuri",
+                        "Nyeri pinggang dapat terjadi",
+                        "Tanda dan gejala ISK bagian atas (phielonefritis)",
+                        "Demam",
+                        "menggigil",
+                        "Nyeri panggul dan pinggang",
+                        "Nyeri ketika berkemih",
+                        "Malaise",
+                        "Pusing",
+                        "Mual dan muntah"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Tanda dan gejala ISK bagian bawah (sistiyis) Nyeri yang sering dan rasa panas ketika berkemih Spasme pada area kangdung kemih dan suprapubis Hematuri Nyeri pinggang dapat terjadi Tanda dan gejala ISK bagian atas (phielonefritis) Demam menggigil Nyeri panggul dan pinggang Nyeri ketika berkemih Malaise Pusing Mual dan muntah",
+                    "source_match": 1
+                },
+                {
+                    "answer": "SPO terlampir",
+                    "keywords": [
+                        "SPO terlampir"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "SPO terlampir",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Tanggal pemasangan, jumlah urine yang keluar, karakteristik urine, adanya pembatasan cairan yang masuk",
+                    "keywords": [
+                        "Tanggal pemasangan, jumlah urine yang keluar, karakteristik urine, adanya pembatasan cairan yang masuk"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Tanggal pemasangan, jumlah urine yang keluar, karakteristik urine, adanya pembatasan cairan yang masuk",
+                    "source_match": 1
+                }
+            ]
+        },
+        "Infeksi Nosokomial": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C Penilaian Tulis Infeksi Nosokomial.docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "Antar individu (kontak, peredaran udara)\nIbu hamil kepada janin yang dikandung\nBinatang kepada manusia",
+                    "keywords": [
+                        "Antar individu (kontak, peredaran udara)",
+                        "Ibu hamil kepada janin yang dikandung",
+                        "Binatang kepada manusia"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Antar individu (kontak, peredaran udara) Ibu hamil kepada janin yang dikandung Binatang kepada manusia",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Sepatu but\nKacamata\nMasker\nTopi\nApron",
+                    "keywords": [
+                        "Sepatu but",
+                        "Kacamata",
+                        "Masker",
+                        "Topi",
+                        "Apron"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Sepatu but Kacamata Masker Topi Apron",
+                    "source_match": 1
+                }
+            ]
+        },
+        "Komunikasi": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C Penilaian Tulis Komunikasi.docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "Berat badan pasien dan umur",
+                    "keywords": [
+                        "Berat badan pasien dan umur"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Berat badan pasien dan umur",
+                    "source_match": 1
+                },
+                {
+                    "answer": "(Benar instruksi, benar pasien, benar obat, benar dosis, benar rute, benar waktu pemberian obat, benar pencampuran, benar kadaluarsa, benar informasi, benar dokumentasi)",
+                    "keywords": [
+                        "(Benar instruksi, benar pasien, benar obat, benar dosis, benar rute, benar waktu pemberian obat, benar pencampuran, benar kadaluarsa, benar informasi, benar dokumentasi)"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "(Benar instruksi, benar pasien, benar obat, benar dosis, benar rute, benar waktu pemberian obat, benar pencampuran, benar kadaluarsa, benar informasi, benar dokumentasi)",
+                    "source_match": 1
+                },
+                {
+                    "answer": "IV, IM, IC, SC, SL, Oral, vaginal, rectal, topikal, tetes",
+                    "keywords": [
+                        "IV, IM, IC, SC, SL, Oral, vaginal, rectal, topikal, tetes"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "IV, IM, IC, SC, SL, Oral, vaginal, rectal, topikal, tetes",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Muncul tanda-tanda alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas)\nSesak nafas\nSyok anafilaktik",
+                    "keywords": [
+                        "Muncul tanda-tanda alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas)",
+                        "Sesak nafas",
+                        "Syok anafilaktik"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Muncul tanda-tanda alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas) Sesak nafas Syok anafilaktik",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas)\nSesak nafas\nSyok anafilaktik",
+                    "keywords": [
+                        "Alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas)",
+                        "Sesak nafas",
+                        "Syok anafilaktik"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas) Sesak nafas Syok anafilaktik",
+                    "source_match": 1
+                }
+            ]
+        },
+        "Memindahkan Pasien": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C Penilaian Tulis Memindahkan Pasien.docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "Stroke\nCedera medula spinalis\nTrauma\nFraktur\nOsteoarthritis\nOstemalasia\nKeganasan",
+                    "keywords": [
+                        "Stroke",
+                        "Cedera medula spinalis",
+                        "Trauma",
+                        "Fraktur",
+                        "Osteoarthritis",
+                        "Ostemalasia",
+                        "Keganasan"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "Stroke Cedera medula spinalis Trauma Fraktur Osteoarthritis Ostemalasia Keganasan",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Seorang pasien perempuan bernama \"y.\" berusiah #2 tahun datang ke $%& dengan keluhan paien mengatakan ia 2 hari yang lalu pasien mengalami kecelakaan sepeda motor ' setelah ia mengikuti anuran dari dokter untuk melakukan pemeriksaan (T-scan dan hasilnya pasien mengalami trauma servikal ' tanda-tanda vital T& ) 1*+,+ ' T ) #' ' / ) 02 ,i '  ) 22 ,i ' paien uga merasakan sering sakit kepala . mobilisasi apa yang harus diberikan seorang pera!at terhadap pasien yang mengalami trauma servikal",
+                    "keywords": [
+                        "Seorang pasien perempuan bernama \"y.\" berusiah #2 tahun datang ke $%& dengan keluhan paien mengatakan ia 2 hari yang lalu pasien mengalami kecelakaan sepeda motor ' setelah ia mengikuti anuran dari dokter untuk melakukan pemeriksaan (T-scan dan hasilnya pasien mengalami trauma servikal ' tanda-tanda vital T& ) 1*+,+ ' T ) #' ' / ) 02 ,i '  ) 22 ,i ' paien uga merasakan sering sakit kepala .",
+                        "mobilisasi apa yang harus diberikan seorang pera!at terhadap pasien yang mengalami trauma servikal"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Seorang pasien perempuan bernama \"y.\" berusiah #2 tahun datang ke $%& dengan keluhan paien mengatakan ia 2 hari yang lalu pasien mengalami kecelakaan sepeda motor ' setelah ia mengikuti anuran dari dokter untuk melakukan pemeriksaan (T-scan dan hasilnya pasien mengalami trauma servikal ' tanda-tanda vital T& ) 1*+,+ ' T ) #' ' / ) 02 ,i '  ) 22 ,i ' paien uga merasakan sering sakit kepala . mobilisasi apa yang harus diberikan seorang pera!at terhadap pasien yang mengalami trauma servikal",
+                    "source_match": 1
+                },
+                {
+                    "answer": "SPO terlampir",
+                    "keywords": [
+                        "SPO terlampir"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "SPO terlampir",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Mobilisasi adalah kemampuan seseorang untuk bergerak bebas, mudah dan tetatur yang bertujuan untuk memenuhi hidup sehat. Mobilisasi diperlukan untuk meningkatkan kesehatan, memperlambat proses penyakit degeneratif dan aktualisasi (Mubarak. 2008)",
+                    "keywords": [
+                        "Mobilisasi adalah kemampuan seseorang untuk bergerak bebas, mudah dan tetatur yang bertujuan untuk memenuhi hidup sehat.",
+                        "Mobilisasi diperlukan untuk meningkatkan kesehatan, memperlambat proses penyakit degeneratif dan aktualisasi (Mubarak.",
+                        "2008)"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Mobilisasi adalah kemampuan seseorang untuk bergerak bebas, mudah dan tetatur yang bertujuan untuk memenuhi hidup sehat. Mobilisasi diperlukan untuk meningkatkan kesehatan, memperlambat proses penyakit degeneratif dan aktualisasi (Mubarak. 2008)",
+                    "source_match": 1
+                },
+                {
+                    "answer": "SPO terlampir",
+                    "keywords": [
+                        "SPO terlampir"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "SPO terlampir",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Mengurangi potensi timbulnya kecelakaan kerja\nMenurangi potensi gangguan kesehatan pada petugas (perawat/ bidan)\nMeningkatkan produktifitas dan penampilan kerja",
+                    "keywords": [
+                        "Mengurangi potensi timbulnya kecelakaan kerja",
+                        "Menurangi potensi gangguan kesehatan pada petugas (perawat/ bidan)",
+                        "Meningkatkan produktifitas dan penampilan kerja"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Mengurangi potensi timbulnya kecelakaan kerja Menurangi potensi gangguan kesehatan pada petugas (perawat/ bidan) Meningkatkan produktifitas dan penampilan kerja",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Memantau keadaan umum pasien pada saat pemindahan pasien\nMenjaga agar selang-selang yang tersambung tidak terputus/ tertekan.",
+                    "keywords": [
+                        "Memantau keadaan umum pasien pada saat pemindahan pasien",
+                        "Menjaga agar selang-selang yang tersambung tidak terputus/ tertekan."
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Memantau keadaan umum pasien pada saat pemindahan pasien Menjaga agar selang-selang yang tersambung tidak terputus/ tertekan.",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Peralatan medis tersambung dengan baik\nMemperhatikan/ menanyakan posisi nyaman pasien\nMemastikan pemindahan sudah dilakukan dengan benar",
+                    "keywords": [
+                        "Peralatan medis tersambung dengan baik",
+                        "Memperhatikan/ menanyakan posisi nyaman pasien",
+                        "Memastikan pemindahan sudah dilakukan dengan benar"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Peralatan medis tersambung dengan baik Memperhatikan/ menanyakan posisi nyaman pasien Memastikan pemindahan sudah dilakukan dengan benar",
+                    "source_match": 1
+                },
+                {
+                    "answer": "Melakukan TBAK (Tulis, baca, konfirmasi) di CPPT pasien.",
+                    "keywords": [
+                        "Melakukan TBAK (Tulis, baca, konfirmasi) di CPPT pasien."
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Melakukan TBAK (Tulis, baca, konfirmasi) di CPPT pasien.",
+                    "source_match": 1
+                }
+            ]
+        },
+        "Mengelola Nyeri dengan Bantuan Obat": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis) mengelola nyeri dgn obat (3).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "Nyeri adalah pengalaman sensorik dan emosional tidak menyenangkan terkait kerusakan jaringan aktual atau potensial; tujuan terapi menurunkan nyeri; meningkatkan kenyamanan dan fungsi pasien",
+                    "keywords": [
+                        "Nyeri adalah pengalaman sensorik dan emosional tidak menyenangkan terkait kerusakan jaringan aktual atau potensial",
+                        "tujuan terapi menurunkan nyeri",
+                        "meningkatkan kenyamanan dan fungsi pasien"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Nyeri adalah pengalaman sensorik dan emosional tidak menyenangkan terkait kerusakan jaringan aktual atau potensial; tujuan terapi menurunkan nyeri; meningkatkan kenyamanan dan fungsi pasien"
+                },
+                {
+                    "answer": "usia; budaya; pengalaman nyeri sebelumnya; kecemasan atau emosi; kelelahan; dukungan keluarga",
+                    "keywords": [
+                        "usia",
+                        "budaya",
+                        "pengalaman nyeri sebelumnya",
+                        "kecemasan atau emosi",
+                        "kelelahan",
+                        "dukungan keluarga"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "usia; budaya; pengalaman nyeri sebelumnya; kecemasan atau emosi; kelelahan; dukungan keluarga"
+                },
+                {
+                    "answer": "P (Provokes/ Point )/faktor pencetus\t: Faktor yang mempengaruhi gawat atau ringannya nyeri, peristiwa penyebab nyeri\nQ (Quality)/kualitas       : Bagaimana rasa nyerinya, sifat nyeri yang digambarkan pasien\nR (Radiation/)/lokasi : Melacak daerah nyeri dari titik yang paling nyeri\nS (Severity)          : Keparahan atau intensitas nyeri /skala nyeri\nT (Time/On set)\t: Waktu atau lama serangan atau frekuensi nyeri",
+                    "keywords": [
+                        "P (Provokes/ Point )/faktor pencetus",
+                        "Q (Quality)/kualitas",
+                        "R (Radiation/)/lokasi",
+                        "S (Severity)",
+                        "T (Time/On set)"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "P (Provokes/ Point )/faktor pencetus : Faktor yang mempengaruhi gawat atau ringannya nyeri, peristiwa penyebab nyeri Q (Quality)/kualitas : Bagaimana rasa nyerinya, sifat nyeri yang digambarkan pasien R (Radiation/)/lokasi : Melacak daerah nyeri dari titik yang paling nyeri S (Severity) : Keparahan atau intensitas nyeri /skala nyeri T (Time/On set) : Waktu atau lama serangan atau frekuensi nyeri",
+                    "source_match": 0.75
+                },
+                {
+                    "answer": "skala 0 sampai 10; 0 tidak nyeri; 10 nyeri terberat",
+                    "keywords": [
+                        "skala 0 sampai 10",
+                        "0 tidak nyeri",
+                        "10 nyeri terberat"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "skala 0 sampai 10; 0 tidak nyeri; 10 nyeri terberat"
+                },
+                {
+                    "answer": "identitas pasien; instruksi dan indikasi obat; riwayat alergi; skala nyeri; tanda vital; kontraindikasi; dosis terakhir",
+                    "keywords": [
+                        "identitas pasien",
+                        "instruksi dan indikasi obat",
+                        "riwayat alergi",
+                        "skala nyeri",
+                        "tanda vital",
+                        "kontraindikasi",
+                        "dosis terakhir"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "identitas pasien; instruksi dan indikasi obat; riwayat alergi; skala nyeri; tanda vital; kontraindikasi; dosis terakhir"
+                },
+                {
+                    "answer": "benar pasien; benar obat; benar dosis; benar waktu; benar rute; benar dokumentasi; benar indikasi; benar respons; benar edukasi; hak pasien menolak",
+                    "keywords": [
+                        "benar pasien",
+                        "benar obat",
+                        "benar dosis",
+                        "benar waktu",
+                        "benar rute",
+                        "benar dokumentasi",
+                        "benar indikasi",
+                        "benar respons",
+                        "benar edukasi",
+                        "hak pasien menolak"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "benar pasien; benar obat; benar dosis; benar waktu; benar rute; benar dokumentasi; benar indikasi; benar respons; benar edukasi; hak pasien menolak"
+                },
+                {
+                    "answer": "kaji nyeri dan tanda vital; verifikasi identitas resep alergi dan kontraindikasi; pastikan obat dosis rute dan waktu benar",
+                    "keywords": [
+                        "kaji nyeri dan tanda vital",
+                        "verifikasi identitas resep alergi dan kontraindikasi",
+                        "pastikan obat dosis rute dan waktu benar"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "kaji nyeri dan tanda vital; verifikasi identitas resep alergi dan kontraindikasi; pastikan obat dosis rute dan waktu benar"
+                },
+                {
+                    "answer": "non opioid untuk nyeri ringan sampai sedang seperti parasetamol atau NSAID; opioid untuk nyeri sedang sampai berat seperti morfin; opioid berisiko depresi napas dan ketergantungan",
+                    "keywords": [
+                        "non opioid untuk nyeri ringan sampai sedang seperti parasetamol atau NSAID",
+                        "opioid untuk nyeri sedang sampai berat seperti morfin",
+                        "opioid berisiko depresi napas dan ketergantungan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "non opioid untuk nyeri ringan sampai sedang seperti parasetamol atau NSAID; opioid untuk nyeri sedang sampai berat seperti morfin; opioid berisiko depresi napas dan ketergantungan"
+                },
+                {
+                    "answer": "depresi pernapasan; sedasi atau penurunan kesadaran; hipotensi; mual muntah; konstipasi; gatal",
+                    "keywords": [
+                        "depresi pernapasan",
+                        "sedasi atau penurunan kesadaran",
+                        "hipotensi",
+                        "mual muntah",
+                        "konstipasi",
+                        "gatal"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "depresi pernapasan; sedasi atau penurunan kesadaran; hipotensi; mual muntah; konstipasi; gatal"
+                },
+                {
+                    "answer": "jelaskan nama tujuan dosis dan jadwal obat; jelaskan efek samping dan tanda bahaya; hindari aktivitas berisiko bila mengantuk; laporkan nyeri menetap atau reaksi obat",
+                    "keywords": [
+                        "jelaskan nama tujuan dosis dan jadwal obat",
+                        "jelaskan efek samping dan tanda bahaya",
+                        "hindari aktivitas berisiko bila mengantuk",
+                        "laporkan nyeri menetap atau reaksi obat"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "jelaskan nama tujuan dosis dan jadwal obat; jelaskan efek samping dan tanda bahaya; hindari aktivitas berisiko bila mengantuk; laporkan nyeri menetap atau reaksi obat"
+                },
+                {
+                    "answer": "kaji ulang nyeri dan tanda vital; pastikan waktu onset obat; lakukan intervensi nonfarmakologis; laporkan dan kolaborasi evaluasi terapi",
+                    "keywords": [
+                        "kaji ulang nyeri dan tanda vital",
+                        "pastikan waktu onset obat",
+                        "lakukan intervensi nonfarmakologis",
+                        "laporkan dan kolaborasi evaluasi terapi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "kaji ulang nyeri dan tanda vital; pastikan waktu onset obat; lakukan intervensi nonfarmakologis; laporkan dan kolaborasi evaluasi terapi"
+                },
+                {
+                    "answer": "nilai ulang skala nyeri; amati ekspresi perilaku dan fungsi; bandingkan sebelum dan sesudah obat; pantau tanda vital dan efek samping",
+                    "keywords": [
+                        "nilai ulang skala nyeri",
+                        "amati ekspresi perilaku dan fungsi",
+                        "bandingkan sebelum dan sesudah obat",
+                        "pantau tanda vital dan efek samping"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "nilai ulang skala nyeri; amati ekspresi perilaku dan fungsi; bandingkan sebelum dan sesudah obat; pantau tanda vital dan efek samping"
+                },
+                {
+                    "answer": "nama obat dosis rute waktu; skala nyeri sebelum dan sesudah; respons pasien; efek samping; edukasi; nama atau paraf pemberi",
+                    "keywords": [
+                        "nama obat dosis rute waktu",
+                        "skala nyeri sebelum dan sesudah",
+                        "respons pasien",
+                        "efek samping",
+                        "edukasi",
+                        "nama atau paraf pemberi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "nama obat dosis rute waktu; skala nyeri sebelum dan sesudah; respons pasien; efek samping; edukasi; nama atau paraf pemberi"
+                },
+                {
+                    "answer": "pastikan akses intravena paten; periksa pengenceran kompatibilitas dan kecepatan; gunakan pompa bila diperlukan; pantau tanda vital kesadaran dan reaksi obat",
+                    "keywords": [
+                        "pastikan akses intravena paten",
+                        "periksa pengenceran kompatibilitas dan kecepatan",
+                        "gunakan pompa bila diperlukan",
+                        "pantau tanda vital kesadaran dan reaksi obat"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "pastikan akses intravena paten; periksa pengenceran kompatibilitas dan kecepatan; gunakan pompa bila diperlukan; pantau tanda vital kesadaran dan reaksi obat"
+                }
+            ]
+        },
+        "Oksigenasi": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis) (7).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "oksigenasi adalah pemenuhan oksigen untuk metabolisme jaringan; mempertahankan saturasi dan ventilasi adekuat; mencegah hipoksia",
+                    "keywords": [
+                        "oksigenasi adalah pemenuhan oksigen untuk metabolisme jaringan",
+                        "mempertahankan saturasi dan ventilasi adekuat",
+                        "mencegah hipoksia"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "oksigenasi adalah pemenuhan oksigen untuk metabolisme jaringan; mempertahankan saturasi dan ventilasi adekuat; mencegah hipoksia"
+                },
+                {
+                    "answer": "usia; penyakit jantung atau paru; aktivitas; posisi tubuh; merokok; kadar hemoglobin",
+                    "keywords": [
+                        "usia",
+                        "penyakit jantung atau paru",
+                        "aktivitas",
+                        "posisi tubuh",
+                        "merokok",
+                        "kadar hemoglobin"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "usia; penyakit jantung atau paru; aktivitas; posisi tubuh; merokok; kadar hemoglobin"
+                },
+                {
+                    "answer": "sesak napas; napas cepat; saturasi rendah; sianosis; gelisah; takikardia; penurunan kesadaran",
+                    "keywords": [
+                        "sesak napas",
+                        "napas cepat",
+                        "saturasi rendah",
+                        "sianosis",
+                        "gelisah",
+                        "takikardia",
+                        "penurunan kesadaran"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "sesak napas; napas cepat; saturasi rendah; sianosis; gelisah; takikardia; penurunan kesadaran"
+                },
+                {
+                    "answer": "pulse oximeter; oksimetri nadi",
+                    "keywords": [
+                        "pulse oximeter",
+                        "oksimetri nadi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "pulse oximeter; oksimetri nadi"
+                },
+                {
+                    "answer": "frekuensi kedalaman dan pola napas; saturasi oksigen; suara napas; warna kulit; kesadaran; tanda vital dan riwayat penyakit",
+                    "keywords": [
+                        "frekuensi kedalaman dan pola napas",
+                        "saturasi oksigen",
+                        "suara napas",
+                        "warna kulit",
+                        "kesadaran",
+                        "tanda vital dan riwayat penyakit"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "frekuensi kedalaman dan pola napas; saturasi oksigen; suara napas; warna kulit; kesadaran; tanda vital dan riwayat penyakit"
+                },
+                {
+                    "answer": "kanul nasal sekitar 1 sampai 6 liter per menit; masker sederhana sekitar 5 sampai 10 liter per menit; masker non rebreathing sekitar 10 sampai 15 liter per menit; venturi sesuai adaptor dan target",
+                    "keywords": [
+                        "kanul nasal sekitar 1 sampai 6 liter per menit",
+                        "masker sederhana sekitar 5 sampai 10 liter per menit",
+                        "masker non rebreathing sekitar 10 sampai 15 liter per menit",
+                        "venturi sesuai adaptor dan target"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "kanul nasal sekitar 1 sampai 6 liter per menit; masker sederhana sekitar 5 sampai 10 liter per menit; masker non rebreathing sekitar 10 sampai 15 liter per menit; venturi sesuai adaptor dan target"
+                },
+                {
+                    "answer": "posisi semi Fowler atau Fowler; meningkatkan ekspansi paru",
+                    "keywords": [
+                        "posisi semi Fowler atau Fowler",
+                        "meningkatkan ekspansi paru"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "posisi semi Fowler atau Fowler; meningkatkan ekspansi paru"
+                },
+                {
+                    "answer": "verifikasi pasien dan instruksi; cuci tangan; jelaskan tindakan; pasang kanul dengan benar; atur aliran sesuai program; cek kenyamanan kulit dan saturasi",
+                    "keywords": [
+                        "verifikasi pasien dan instruksi",
+                        "cuci tangan",
+                        "jelaskan tindakan",
+                        "pasang kanul dengan benar",
+                        "atur aliran sesuai program",
+                        "cek kenyamanan kulit dan saturasi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "verifikasi pasien dan instruksi; cuci tangan; jelaskan tindakan; pasang kanul dengan benar; atur aliran sesuai program; cek kenyamanan kulit dan saturasi"
+                },
+                {
+                    "answer": "saturasi oksigen; frekuensi dan usaha napas; kesadaran; warna kulit; kenyamanan dan iritasi; aliran serta fungsi alat",
+                    "keywords": [
+                        "saturasi oksigen",
+                        "frekuensi dan usaha napas",
+                        "kesadaran",
+                        "warna kulit",
+                        "kenyamanan dan iritasi",
+                        "aliran serta fungsi alat"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "saturasi oksigen; frekuensi dan usaha napas; kesadaran; warna kulit; kenyamanan dan iritasi; aliran serta fungsi alat"
+                },
+                {
+                    "answer": "oksigen mendukung pembakaran; dilarang merokok dan jauhkan api atau percikan; hindari minyak atau bahan mudah terbakar; amankan tabung tegak; cek sambungan dan kebocoran",
+                    "keywords": [
+                        "oksigen mendukung pembakaran",
+                        "dilarang merokok dan jauhkan api atau percikan",
+                        "hindari minyak atau bahan mudah terbakar",
+                        "amankan tabung tegak",
+                        "cek sambungan dan kebocoran"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "oksigen mendukung pembakaran; dilarang merokok dan jauhkan api atau percikan; hindari minyak atau bahan mudah terbakar; amankan tabung tegak; cek sambungan dan kebocoran"
+                },
+                {
+                    "answer": "cek posisi alat aliran dan sumber oksigen; kaji jalan napas dan kondisi klinis; posisikan pasien; laporkan atau aktifkan bantuan; kolaborasi eskalasi alat sesuai instruksi",
+                    "keywords": [
+                        "cek posisi alat aliran dan sumber oksigen",
+                        "kaji jalan napas dan kondisi klinis",
+                        "posisikan pasien",
+                        "laporkan atau aktifkan bantuan",
+                        "kolaborasi eskalasi alat sesuai instruksi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "cek posisi alat aliran dan sumber oksigen; kaji jalan napas dan kondisi klinis; posisikan pasien; laporkan atau aktifkan bantuan; kolaborasi eskalasi alat sesuai instruksi"
+                },
+                {
+                    "answer": "saturasi dan tanda hipoksia membaik; frekuensi serta usaha napas membaik; pasien lebih nyaman",
+                    "keywords": [
+                        "saturasi dan tanda hipoksia membaik",
+                        "frekuensi serta usaha napas membaik",
+                        "pasien lebih nyaman"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "saturasi dan tanda hipoksia membaik; frekuensi serta usaha napas membaik; pasien lebih nyaman"
+                },
+                {
+                    "answer": "alat dan aliran oksigen; waktu pemberian; saturasi dan tanda vital sebelum sesudah; respons pasien; edukasi dan kejadian khusus",
+                    "keywords": [
+                        "alat dan aliran oksigen",
+                        "waktu pemberian",
+                        "saturasi dan tanda vital sebelum sesudah",
+                        "respons pasien",
+                        "edukasi dan kejadian khusus"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "alat dan aliran oksigen; waktu pemberian; saturasi dan tanda vital sebelum sesudah; respons pasien; edukasi dan kejadian khusus"
+                },
+                {
+                    "answer": "gunakan sesuai resep dan target; dilarang merokok atau mendekati api; jaga alat bersih dan tidak terlipat; simpan tabung aman; kenali tanda bahaya dan hubungi layanan kesehatan",
+                    "keywords": [
+                        "gunakan sesuai resep dan target",
+                        "dilarang merokok atau mendekati api",
+                        "jaga alat bersih dan tidak terlipat",
+                        "simpan tabung aman",
+                        "kenali tanda bahaya dan hubungi layanan kesehatan"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "gunakan sesuai resep dan target; dilarang merokok atau mendekati api; jaga alat bersih dan tidak terlipat; simpan tabung aman; kenali tanda bahaya dan hubungi layanan kesehatan"
+                }
+            ]
+        },
+        "Pemberian Obat": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis) pemberian obat (3).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "obat adalah zat untuk pencegahan diagnosis atau terapi penyakit; tujuan mencapai efek terapeutik dengan aman",
+                    "keywords": [
+                        "obat adalah zat untuk pencegahan diagnosis atau terapi penyakit",
+                        "tujuan mencapai efek terapeutik dengan aman"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "obat adalah zat untuk pencegahan diagnosis atau terapi penyakit; tujuan mencapai efek terapeutik dengan aman"
+                },
+                {
+                    "answer": "Benar informasi/ instruksi dokter, nama pasien, nama obat, dosis obat, kombinasi obat, cara pemberian, waktu pemberian, lama pemberian, tanggal kadaluarsa obat, dokumentasi",
+                    "keywords": [
+                        "Benar informasi/ instruksi dokter, nama pasien, nama obat, dosis obat, kombinasi obat, cara pemberian, waktu pemberian, lama pemberian, tanggal kadaluarsa obat, dokumentasi"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Benar informasi/ instruksi dokter, nama pasien, nama obat, dosis obat, kombinasi obat, cara pemberian, waktu pemberian, lama pemberian, tanggal kadaluarsa obat, dokumentasi",
+                    "source_match": 1
+                },
+                {
+                    "answer": "identitas pasien; alergi; diagnosis dan indikasi; usia berat badan fungsi ginjal hati; interaksi kontraindikasi; tanda vital dan hasil laboratorium",
+                    "keywords": [
+                        "identitas pasien",
+                        "alergi",
+                        "diagnosis dan indikasi",
+                        "usia berat badan fungsi ginjal hati",
+                        "interaksi kontraindikasi",
+                        "tanda vital dan hasil laboratorium"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "identitas pasien; alergi; diagnosis dan indikasi; usia berat badan fungsi ginjal hati; interaksi kontraindikasi; tanda vital dan hasil laboratorium"
+                },
+                {
+                    "answer": "verifikasi identitas pasien dengan minimal dua identitas; cocokkan dengan resep dan gelang identitas",
+                    "keywords": [
+                        "verifikasi identitas pasien dengan minimal dua identitas",
+                        "cocokkan dengan resep dan gelang identitas"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "verifikasi identitas pasien dengan minimal dua identitas; cocokkan dengan resep dan gelang identitas"
+                },
+                {
+                    "answer": "tablet kapsul atau sirup; krim atau salep; suppositoria; injeksi atau infus; inhaler",
+                    "keywords": [
+                        "tablet kapsul atau sirup",
+                        "krim atau salep",
+                        "suppositoria",
+                        "injeksi atau infus",
+                        "inhaler"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "tablet kapsul atau sirup; krim atau salep; suppositoria; injeksi atau infus; inhaler"
+                },
+                {
+                    "answer": "baca nama kekuatan dosis rute dan aturan pakai; periksa nama pasien; periksa tanggal kedaluwarsa dan kondisi kemasan; jangan gunakan obat rusak atau tidak jelas",
+                    "keywords": [
+                        "baca nama kekuatan dosis rute dan aturan pakai",
+                        "periksa nama pasien",
+                        "periksa tanggal kedaluwarsa dan kondisi kemasan",
+                        "jangan gunakan obat rusak atau tidak jelas"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "baca nama kekuatan dosis rute dan aturan pakai; periksa nama pasien; periksa tanggal kedaluwarsa dan kondisi kemasan; jangan gunakan obat rusak atau tidak jelas"
+                },
+                {
+                    "answer": "rute enteral terutama oral; diserap melalui saluran pencernaan",
+                    "keywords": [
+                        "rute enteral terutama oral",
+                        "diserap melalui saluran pencernaan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "rute enteral terutama oral; diserap melalui saluran pencernaan"
+                },
+                {
+                    "answer": "oral melalui mulut; topikal pada kulit atau mukosa; inhalasi melalui saluran napas; parenteral melalui injeksi intradermal subkutan intramuskular atau intravena",
+                    "keywords": [
+                        "oral melalui mulut",
+                        "topikal pada kulit atau mukosa",
+                        "inhalasi melalui saluran napas",
+                        "parenteral melalui injeksi intradermal subkutan intramuskular atau intravena"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "oral melalui mulut; topikal pada kulit atau mukosa; inhalasi melalui saluran napas; parenteral melalui injeksi intradermal subkutan intramuskular atau intravena"
+                },
+                {
+                    "answer": "cuci tangan dan teknik aseptik; verifikasi obat dosis pelarut dan kompatibilitas; gunakan alat steril; beri label sediaan; buang benda tajam pada safety box",
+                    "keywords": [
+                        "cuci tangan dan teknik aseptik",
+                        "verifikasi obat dosis pelarut dan kompatibilitas",
+                        "gunakan alat steril",
+                        "beri label sediaan",
+                        "buang benda tajam pada safety box"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "cuci tangan dan teknik aseptik; verifikasi obat dosis pelarut dan kompatibilitas; gunakan alat steril; beri label sediaan; buang benda tajam pada safety box"
+                },
+                {
+                    "answer": "alergi atau anafilaksis; mual muntah; ruam dan gatal; pusing atau sedasi; hipotensi; gangguan napas",
+                    "keywords": [
+                        "alergi atau anafilaksis",
+                        "mual muntah",
+                        "ruam dan gatal",
+                        "pusing atau sedasi",
+                        "hipotensi",
+                        "gangguan napas"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "alergi atau anafilaksis; mual muntah; ruam dan gatal; pusing atau sedasi; hipotensi; gangguan napas"
+                },
+                {
+                    "answer": "Reaksi pemberian obat yang terjadi pada pasien di catat dalam CPPT",
+                    "keywords": [
+                        "Reaksi pemberian obat yang terjadi pada pasien di catat dalam CPPT"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Reaksi pemberian obat yang terjadi pada pasien di catat dalam CPPT",
+                    "source_match": 0.5
+                },
+                {
+                    "answer": "Muncul tanda-tanda alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas)\nSesak nafas\nSyok anafilaktik",
+                    "keywords": [
+                        "Muncul tanda-tanda alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas)",
+                        "Sesak nafas",
+                        "Syok anafilaktik"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Muncul tanda-tanda alergi (kemerahan seluruh tubuh/ sebagian, demam, gatal, rasa panas) Sesak nafas Syok anafilaktik",
+                    "source_match": 0.5
+                },
+                {
+                    "answer": "nama dan tujuan obat; dosis jadwal dan cara penggunaan; efek samping dan tanda bahaya; interaksi dan hal yang harus dihindari; kepatuhan serta penyimpanan",
+                    "keywords": [
+                        "nama dan tujuan obat",
+                        "dosis jadwal dan cara penggunaan",
+                        "efek samping dan tanda bahaya",
+                        "interaksi dan hal yang harus dihindari",
+                        "kepatuhan serta penyimpanan"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "nama dan tujuan obat; dosis jadwal dan cara penggunaan; efek samping dan tanda bahaya; interaksi dan hal yang harus dihindari; kepatuhan serta penyimpanan"
+                },
+                {
+                    "answer": "nama obat dosis rute waktu; indikasi; respons dan efek samping; edukasi; nama atau paraf pemberi",
+                    "keywords": [
+                        "nama obat dosis rute waktu",
+                        "indikasi",
+                        "respons dan efek samping",
+                        "edukasi",
+                        "nama atau paraf pemberi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "nama obat dosis rute waktu; indikasi; respons dan efek samping; edukasi; nama atau paraf pemberi"
+                }
+            ]
+        },
+        "Pemeriksaan Diagnostik": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis pemeriksaan diagnostik) (2).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "pemeriksaan diagnostik adalah pemeriksaan untuk membantu menegakkan atau memantau diagnosis; menilai kondisi dan respons terapi; mengarahkan rencana perawatan",
+                    "keywords": [
+                        "pemeriksaan diagnostik adalah pemeriksaan untuk membantu menegakkan atau memantau diagnosis",
+                        "menilai kondisi dan respons terapi",
+                        "mengarahkan rencana perawatan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "pemeriksaan diagnostik adalah pemeriksaan untuk membantu menegakkan atau memantau diagnosis; menilai kondisi dan respons terapi; mengarahkan rencana perawatan"
+                },
+                {
+                    "answer": "identitas pasien; instruksi pemeriksaan; riwayat penyakit dan alergi; obat yang digunakan; status puasa atau persiapan; kehamilan; hasil pemeriksaan sebelumnya; tanda vital",
+                    "keywords": [
+                        "identitas pasien",
+                        "instruksi pemeriksaan",
+                        "riwayat penyakit dan alergi",
+                        "obat yang digunakan",
+                        "status puasa atau persiapan",
+                        "kehamilan",
+                        "hasil pemeriksaan sebelumnya",
+                        "tanda vital"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "identitas pasien; instruksi pemeriksaan; riwayat penyakit dan alergi; obat yang digunakan; status puasa atau persiapan; kehamilan; hasil pemeriksaan sebelumnya; tanda vital"
+                },
+                {
+                    "answer": "verifikasi instruksi dan identitas; kaji kesiapan dan risiko; jelaskan prosedur; siapkan fisik psikologis dan dokumen; koordinasi transportasi dan keselamatan",
+                    "keywords": [
+                        "verifikasi instruksi dan identitas",
+                        "kaji kesiapan dan risiko",
+                        "jelaskan prosedur",
+                        "siapkan fisik psikologis dan dokumen",
+                        "koordinasi transportasi dan keselamatan"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "verifikasi instruksi dan identitas; kaji kesiapan dan risiko; jelaskan prosedur; siapkan fisik psikologis dan dokumen; koordinasi transportasi dan keselamatan"
+                },
+                {
+                    "answer": "verifikasi identitas pasien dan instruksi pemeriksaan; pastikan persiapan dan dokumen lengkap",
+                    "keywords": [
+                        "verifikasi identitas pasien dan instruksi pemeriksaan",
+                        "pastikan persiapan dan dokumen lengkap"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "verifikasi identitas pasien dan instruksi pemeriksaan; pastikan persiapan dan dokumen lengkap"
+                },
+                {
+                    "answer": "laboratorium sesuai jenis spesimen dan syarat puasa; radiologi cek logam kehamilan alergi kontras dan fungsi ginjal; pemeriksaan lain mengikuti SOP serta informed consent",
+                    "keywords": [
+                        "laboratorium sesuai jenis spesimen dan syarat puasa",
+                        "radiologi cek logam kehamilan alergi kontras dan fungsi ginjal",
+                        "pemeriksaan lain mengikuti SOP serta informed consent"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "laboratorium sesuai jenis spesimen dan syarat puasa; radiologi cek logam kehamilan alergi kontras dan fungsi ginjal; pemeriksaan lain mengikuti SOP serta informed consent"
+                },
+                {
+                    "answer": "glukosa puasa atau profil lipid; USG abdomen tertentu; endoskopi atau pemeriksaan dengan sedasi; puasa mencegah hasil bias atau aspirasi sesuai jenis pemeriksaan",
+                    "keywords": [
+                        "glukosa puasa atau profil lipid",
+                        "USG abdomen tertentu",
+                        "endoskopi atau pemeriksaan dengan sedasi",
+                        "puasa mencegah hasil bias atau aspirasi sesuai jenis pemeriksaan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "glukosa puasa atau profil lipid; USG abdomen tertentu; endoskopi atau pemeriksaan dengan sedasi; puasa mencegah hasil bias atau aspirasi sesuai jenis pemeriksaan"
+                },
+                {
+                    "answer": "apron timbal atau pelindung radiasi; kolimasi dan pembatasan paparan sesuai prinsip ALARA",
+                    "keywords": [
+                        "apron timbal atau pelindung radiasi",
+                        "kolimasi dan pembatasan paparan sesuai prinsip ALARA"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "apron timbal atau pelindung radiasi; kolimasi dan pembatasan paparan sesuai prinsip ALARA"
+                },
+                {
+                    "answer": "identifikasi benar; pencegahan jatuh dan infeksi; privasi; posisi dan imobilisasi aman; pantau kondisi; komunikasi dengan tim pemeriksa",
+                    "keywords": [
+                        "identifikasi benar",
+                        "pencegahan jatuh dan infeksi",
+                        "privasi",
+                        "posisi dan imobilisasi aman",
+                        "pantau kondisi",
+                        "komunikasi dengan tim pemeriksa"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "identifikasi benar; pencegahan jatuh dan infeksi; privasi; posisi dan imobilisasi aman; pantau kondisi; komunikasi dengan tim pemeriksa"
+                },
+                {
+                    "answer": "hentikan prosedur bila perlu; kaji jalan napas tanda vital dan kondisi pasien; panggil bantuan atau laporkan; berikan tindakan emergensi sesuai SOP; dokumentasikan",
+                    "keywords": [
+                        "hentikan prosedur bila perlu",
+                        "kaji jalan napas tanda vital dan kondisi pasien",
+                        "panggil bantuan atau laporkan",
+                        "berikan tindakan emergensi sesuai SOP",
+                        "dokumentasikan"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "hentikan prosedur bila perlu; kaji jalan napas tanda vital dan kondisi pasien; panggil bantuan atau laporkan; berikan tindakan emergensi sesuai SOP; dokumentasikan"
+                },
+                {
+                    "answer": "jelaskan tujuan langkah sensasi dan durasi dengan bahasa sederhana; beri kesempatan bertanya; jaga privasi; gunakan komunikasi terapeutik dan dukungan",
+                    "keywords": [
+                        "jelaskan tujuan langkah sensasi dan durasi dengan bahasa sederhana",
+                        "beri kesempatan bertanya",
+                        "jaga privasi",
+                        "gunakan komunikasi terapeutik dan dukungan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "jelaskan tujuan langkah sensasi dan durasi dengan bahasa sederhana; beri kesempatan bertanya; jaga privasi; gunakan komunikasi terapeutik dan dukungan"
+                },
+                {
+                    "answer": "kondisi dan mobilitas pasien; alat bantu serta jalur infus drain; identitas dan dokumen; risiko jatuh; oksigen dan kebutuhan monitoring; serah terima",
+                    "keywords": [
+                        "kondisi dan mobilitas pasien",
+                        "alat bantu serta jalur infus drain",
+                        "identitas dan dokumen",
+                        "risiko jatuh",
+                        "oksigen dan kebutuhan monitoring",
+                        "serah terima"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "kondisi dan mobilitas pasien; alat bantu serta jalur infus drain; identitas dan dokumen; risiko jatuh; oksigen dan kebutuhan monitoring; serah terima"
+                },
+                {
+                    "answer": "kaji kondisi dan tanda vital; pantau efek sedasi atau kontras; pastikan keselamatan; ikuti instruksi pascapemeriksaan; laporkan hasil kritis",
+                    "keywords": [
+                        "kaji kondisi dan tanda vital",
+                        "pantau efek sedasi atau kontras",
+                        "pastikan keselamatan",
+                        "ikuti instruksi pascapemeriksaan",
+                        "laporkan hasil kritis"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "kaji kondisi dan tanda vital; pantau efek sedasi atau kontras; pastikan keselamatan; ikuti instruksi pascapemeriksaan; laporkan hasil kritis"
+                },
+                {
+                    "answer": "jenis waktu dan tempat pemeriksaan; persiapan; kondisi sebelum sesudah; spesimen atau hasil; reaksi atau komplikasi; edukasi dan tindak lanjut",
+                    "keywords": [
+                        "jenis waktu dan tempat pemeriksaan",
+                        "persiapan",
+                        "kondisi sebelum sesudah",
+                        "spesimen atau hasil",
+                        "reaksi atau komplikasi",
+                        "edukasi dan tindak lanjut"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "jenis waktu dan tempat pemeriksaan; persiapan; kondisi sebelum sesudah; spesimen atau hasil; reaksi atau komplikasi; edukasi dan tindak lanjut"
+                },
+                {
+                    "answer": "perawatan setelah tindakan; makan minum dan aktivitas sesuai instruksi; efek yang mungkin terjadi; tanda bahaya; jadwal hasil dan kontrol",
+                    "keywords": [
+                        "perawatan setelah tindakan",
+                        "makan minum dan aktivitas sesuai instruksi",
+                        "efek yang mungkin terjadi",
+                        "tanda bahaya",
+                        "jadwal hasil dan kontrol"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "perawatan setelah tindakan; makan minum dan aktivitas sesuai instruksi; efek yang mungkin terjadi; tanda bahaya; jadwal hasil dan kontrol"
+                }
+            ]
+        },
+        "Pengkajian": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis) personal hygiene (5).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "pengkajian keperawatan adalah pengumpulan verifikasi dan analisis data pasien secara sistematis; mengidentifikasi masalah kebutuhan dan risiko; menjadi dasar diagnosis dan rencana keperawatan",
+                    "keywords": [
+                        "pengkajian keperawatan adalah pengumpulan verifikasi dan analisis data pasien secara sistematis",
+                        "mengidentifikasi masalah kebutuhan dan risiko",
+                        "menjadi dasar diagnosis dan rencana keperawatan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "pengkajian keperawatan adalah pengumpulan verifikasi dan analisis data pasien secara sistematis; mengidentifikasi masalah kebutuhan dan risiko; menjadi dasar diagnosis dan rencana keperawatan"
+                },
+                {
+                    "answer": "pasien sebagai sumber primer; keluarga atau pendamping; rekam medis; tenaga kesehatan lain; hasil pemeriksaan fisik laboratorium dan diagnostik",
+                    "keywords": [
+                        "pasien sebagai sumber primer",
+                        "keluarga atau pendamping",
+                        "rekam medis",
+                        "tenaga kesehatan lain",
+                        "hasil pemeriksaan fisik laboratorium dan diagnostik"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "pasien sebagai sumber primer; keluarga atau pendamping; rekam medis; tenaga kesehatan lain; hasil pemeriksaan fisik laboratorium dan diagnostik"
+                },
+                {
+                    "answer": "data subjektif adalah keluhan atau pengalaman yang disampaikan pasien seperti nyeri; data objektif adalah hasil observasi atau pengukuran seperti suhu tekanan darah dan luka",
+                    "keywords": [
+                        "data subjektif adalah keluhan atau pengalaman yang disampaikan pasien seperti nyeri",
+                        "data objektif adalah hasil observasi atau pengukuran seperti suhu tekanan darah dan luka"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "data subjektif adalah keluhan atau pengalaman yang disampaikan pasien seperti nyeri; data objektif adalah hasil observasi atau pengukuran seperti suhu tekanan darah dan luka"
+                },
+                {
+                    "answer": "data subjektif; disampaikan langsung oleh pasien",
+                    "keywords": [
+                        "data subjektif",
+                        "disampaikan langsung oleh pasien"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "data subjektif; disampaikan langsung oleh pasien"
+                },
+                {
+                    "answer": "persiapan dan identifikasi; anamnesis; observasi dan pemeriksaan fisik; pengumpulan hasil penunjang; validasi dan pengelompokan data; dokumentasi",
+                    "keywords": [
+                        "persiapan dan identifikasi",
+                        "anamnesis",
+                        "observasi dan pemeriksaan fisik",
+                        "pengumpulan hasil penunjang",
+                        "validasi dan pengelompokan data",
+                        "dokumentasi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "persiapan dan identifikasi; anamnesis; observasi dan pemeriksaan fisik; pengumpulan hasil penunjang; validasi dan pengelompokan data; dokumentasi"
+                },
+                {
+                    "answer": "wawancara; observasi; pemeriksaan fisik; telaah rekam medis; konsultasi dan hasil diagnostik",
+                    "keywords": [
+                        "wawancara",
+                        "observasi",
+                        "pemeriksaan fisik",
+                        "telaah rekam medis",
+                        "konsultasi dan hasil diagnostik"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "wawancara; observasi; pemeriksaan fisik; telaah rekam medis; konsultasi dan hasil diagnostik"
+                },
+                {
+                    "answer": "pemeriksaan fisik; inspeksi palpasi perkusi dan auskultasi",
+                    "keywords": [
+                        "pemeriksaan fisik",
+                        "inspeksi palpasi perkusi dan auskultasi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "pemeriksaan fisik; inspeksi palpasi perkusi dan auskultasi"
+                },
+                {
+                    "answer": "inspeksi melihat; palpasi meraba; perkusi mengetuk untuk menilai bunyi; auskultasi mendengar dengan stetoskop",
+                    "keywords": [
+                        "inspeksi melihat",
+                        "palpasi meraba",
+                        "perkusi mengetuk untuk menilai bunyi",
+                        "auskultasi mendengar dengan stetoskop"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "inspeksi melihat; palpasi meraba; perkusi mengetuk untuk menilai bunyi; auskultasi mendengar dengan stetoskop"
+                },
+                {
+                    "answer": "suhu; nadi; frekuensi napas; tekanan darah; saturasi oksigen; ukur dengan alat dan teknik yang sesuai",
+                    "keywords": [
+                        "suhu",
+                        "nadi",
+                        "frekuensi napas",
+                        "tekanan darah",
+                        "saturasi oksigen",
+                        "ukur dengan alat dan teknik yang sesuai"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "suhu; nadi; frekuensi napas; tekanan darah; saturasi oksigen; ukur dengan alat dan teknik yang sesuai"
+                },
+                {
+                    "answer": "nilai kemampuan mandi berpakaian toileting perawatan mulut rambut dan kulit; nilai mobilitas kognisi budaya kebiasaan dan kebutuhan bantuan",
+                    "keywords": [
+                        "nilai kemampuan mandi berpakaian toileting perawatan mulut rambut dan kulit",
+                        "nilai mobilitas kognisi budaya kebiasaan dan kebutuhan bantuan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "nilai kemampuan mandi berpakaian toileting perawatan mulut rambut dan kulit; nilai mobilitas kognisi budaya kebiasaan dan kebutuhan bantuan"
+                },
+                {
+                    "answer": "jelaskan tindakan dan minta persetujuan; tutup pintu atau tirai; tutup bagian tubuh yang tidak diperiksa; jaga kerahasiaan; atur posisi nyaman",
+                    "keywords": [
+                        "jelaskan tindakan dan minta persetujuan",
+                        "tutup pintu atau tirai",
+                        "tutup bagian tubuh yang tidak diperiksa",
+                        "jaga kerahasiaan",
+                        "atur posisi nyaman"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "jelaskan tindakan dan minta persetujuan; tutup pintu atau tirai; tutup bagian tubuh yang tidak diperiksa; jaga kerahasiaan; atur posisi nyaman"
+                },
+                {
+                    "answer": "komunikasi terapeutik; pertanyaan terbuka aktif mendengar empati dan tidak menghakimi",
+                    "keywords": [
+                        "komunikasi terapeutik",
+                        "pertanyaan terbuka aktif mendengar empati dan tidak menghakimi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "komunikasi terapeutik; pertanyaan terbuka aktif mendengar empati dan tidak menghakimi"
+                },
+                {
+                    "answer": "ulang pengkajian dan pengukuran; klarifikasi kepada pasien keluarga atau tim; bandingkan dengan rekam medis dan hasil lain; laporkan ketidaksesuaian bermakna",
+                    "keywords": [
+                        "ulang pengkajian dan pengukuran",
+                        "klarifikasi kepada pasien keluarga atau tim",
+                        "bandingkan dengan rekam medis dan hasil lain",
+                        "laporkan ketidaksesuaian bermakna"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "ulang pengkajian dan pengukuran; klarifikasi kepada pasien keluarga atau tim; bandingkan dengan rekam medis dan hasil lain; laporkan ketidaksesuaian bermakna"
+                },
+                {
+                    "answer": "tanggal waktu dan identitas; data subjektif objektif dan hasil pemeriksaan; masalah risiko dan respons; sumber data; tindakan tindak lanjut dan paraf",
+                    "keywords": [
+                        "tanggal waktu dan identitas",
+                        "data subjektif objektif dan hasil pemeriksaan",
+                        "masalah risiko dan respons",
+                        "sumber data",
+                        "tindakan tindak lanjut dan paraf"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "tanggal waktu dan identitas; data subjektif objektif dan hasil pemeriksaan; masalah risiko dan respons; sumber data; tindakan tindak lanjut dan paraf"
+                }
+            ]
+        },
+        "Transfusi Darah": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis) (10).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "transfusi darah adalah pemberian darah atau komponen darah melalui intravena; mengganti kehilangan darah atau komponen; memperbaiki oksigenasi hemostasis atau volume sirkulasi",
+                    "keywords": [
+                        "transfusi darah adalah pemberian darah atau komponen darah melalui intravena",
+                        "mengganti kehilangan darah atau komponen",
+                        "memperbaiki oksigenasi hemostasis atau volume sirkulasi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "transfusi darah adalah pemberian darah atau komponen darah melalui intravena; mengganti kehilangan darah atau komponen; memperbaiki oksigenasi hemostasis atau volume sirkulasi"
+                },
+                {
+                    "answer": "Klien/ pasien yang kehilangan darah dalam jumlah besar (operasi besar, perdarahan post partum, kecelakaan, luka bakar hebat)\nAnemia\nPenyakit kelainan darah\nSyok hemoragi",
+                    "keywords": [
+                        "Klien/ pasien yang kehilangan darah dalam jumlah besar (operasi besar, perdarahan post partum, kecelakaan, luka bakar hebat)",
+                        "Anemia",
+                        "Penyakit kelainan darah",
+                        "Syok hemoragi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Klien/ pasien yang kehilangan darah dalam jumlah besar (operasi besar, perdarahan post partum, kecelakaan, luka bakar hebat) Anemia Penyakit kelainan darah Syok hemoragi",
+                    "source_match": 0.5
+                },
+                {
+                    "answer": "persetujuan dan edukasi pasien; akses intravena dan set transfusi dengan filter; normal saline; alat tanda vital; verifikasi produk identitas kompatibilitas dan kedaluwarsa",
+                    "keywords": [
+                        "persetujuan dan edukasi pasien",
+                        "akses intravena dan set transfusi dengan filter",
+                        "normal saline",
+                        "alat tanda vital",
+                        "verifikasi produk identitas kompatibilitas dan kedaluwarsa"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "persetujuan dan edukasi pasien; akses intravena dan set transfusi dengan filter; normal saline; alat tanda vital; verifikasi produk identitas kompatibilitas dan kedaluwarsa"
+                },
+                {
+                    "answer": "verifikasi identitas pasien dan kecocokan produk darah; crossmatch atau uji kompatibilitas",
+                    "keywords": [
+                        "verifikasi identitas pasien dan kecocokan produk darah",
+                        "crossmatch atau uji kompatibilitas"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "verifikasi identitas pasien dan kecocokan produk darah; crossmatch atau uji kompatibilitas"
+                },
+                {
+                    "answer": "benar pasien produk golongan jumlah waktu dan rute; dua petugas melakukan pemeriksaan; aseptik; gunakan normal saline; mulai perlahan dan pantau ketat",
+                    "keywords": [
+                        "benar pasien produk golongan jumlah waktu dan rute",
+                        "dua petugas melakukan pemeriksaan",
+                        "aseptik",
+                        "gunakan normal saline",
+                        "mulai perlahan dan pantau ketat"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "benar pasien produk golongan jumlah waktu dan rute; dua petugas melakukan pemeriksaan; aseptik; gunakan normal saline; mulai perlahan dan pantau ketat"
+                },
+                {
+                    "answer": "mencegah salah pasien atau inkompatibilitas ABO; mengurangi risiko reaksi hemolitik fatal",
+                    "keywords": [
+                        "mencegah salah pasien atau inkompatibilitas ABO",
+                        "mengurangi risiko reaksi hemolitik fatal"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "mencegah salah pasien atau inkompatibilitas ABO; mengurangi risiko reaksi hemolitik fatal"
+                },
+                {
+                    "answer": "demam atau menggigil; gatal atau ruam; sesak napas; nyeri dada atau pinggang; takikardia atau hipotensi",
+                    "keywords": [
+                        "demam atau menggigil",
+                        "gatal atau ruam",
+                        "sesak napas",
+                        "nyeri dada atau pinggang",
+                        "takikardia atau hipotensi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "demam atau menggigil; gatal atau ruam; sesak napas; nyeri dada atau pinggang; takikardia atau hipotensi"
+                },
+                {
+                    "answer": "catat tanda vital awal; mulai perlahan dan observasi ketat 15 menit pertama; pantau tanda vital dan gejala berkala; minta pasien segera melapor keluhan",
+                    "keywords": [
+                        "catat tanda vital awal",
+                        "mulai perlahan dan observasi ketat 15 menit pertama",
+                        "pantau tanda vital dan gejala berkala",
+                        "minta pasien segera melapor keluhan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "catat tanda vital awal; mulai perlahan dan observasi ketat 15 menit pertama; pantau tanda vital dan gejala berkala; minta pasien segera melapor keluhan"
+                },
+                {
+                    "answer": "hentikan transfusi segera; pertahankan jalur intravena dengan normal saline menggunakan set baru; kaji ABC dan tanda vital; laporkan dokter dan bank darah; kirim sampel dan kantong sesuai SOP",
+                    "keywords": [
+                        "hentikan transfusi segera",
+                        "pertahankan jalur intravena dengan normal saline menggunakan set baru",
+                        "kaji ABC dan tanda vital",
+                        "laporkan dokter dan bank darah",
+                        "kirim sampel dan kantong sesuai SOP"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "hentikan transfusi segera; pertahankan jalur intravena dengan normal saline menggunakan set baru; kaji ABC dan tanda vital; laporkan dokter dan bank darah; kirim sampel dan kantong sesuai SOP"
+                },
+                {
+                    "answer": "cuci tangan dan teknik aseptik; periksa integritas kantong; jangan menambahkan obat ke darah; gunakan set steril dan selesaikan sesuai batas waktu",
+                    "keywords": [
+                        "cuci tangan dan teknik aseptik",
+                        "periksa integritas kantong",
+                        "jangan menambahkan obat ke darah",
+                        "gunakan set steril dan selesaikan sesuai batas waktu"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "cuci tangan dan teknik aseptik; periksa integritas kantong; jangan menambahkan obat ke darah; gunakan set steril dan selesaikan sesuai batas waktu"
+                },
+                {
+                    "answer": "reaksi hemolitik; alergi atau anafilaksis; demam nonhemolitik; overload sirkulasi; cedera paru terkait transfusi; infeksi",
+                    "keywords": [
+                        "reaksi hemolitik",
+                        "alergi atau anafilaksis",
+                        "demam nonhemolitik",
+                        "overload sirkulasi",
+                        "cedera paru terkait transfusi",
+                        "infeksi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "reaksi hemolitik; alergi atau anafilaksis; demam nonhemolitik; overload sirkulasi; cedera paru terkait transfusi; infeksi"
+                },
+                {
+                    "answer": "hentikan transfusi; jangan membuang kantong dan set; pertahankan akses dengan normal saline",
+                    "keywords": [
+                        "hentikan transfusi",
+                        "jangan membuang kantong dan set",
+                        "pertahankan akses dengan normal saline"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "hentikan transfusi; jangan membuang kantong dan set; pertahankan akses dengan normal saline"
+                },
+                {
+                    "answer": "identitas dan jenis produk; nomor kantong volume waktu mulai selesai; hasil verifikasi; tanda vital dan respons; reaksi serta tindakan; nama petugas",
+                    "keywords": [
+                        "identitas dan jenis produk",
+                        "nomor kantong volume waktu mulai selesai",
+                        "hasil verifikasi",
+                        "tanda vital dan respons",
+                        "reaksi serta tindakan",
+                        "nama petugas"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "identitas dan jenis produk; nomor kantong volume waktu mulai selesai; hasil verifikasi; tanda vital dan respons; reaksi serta tindakan; nama petugas"
+                },
+                {
+                    "answer": "jelaskan kemungkinan reaksi tertunda; laporkan demam ruam sesak urine gelap atau nyeri; ikuti kontrol dan pemeriksaan sesuai instruksi",
+                    "keywords": [
+                        "jelaskan kemungkinan reaksi tertunda",
+                        "laporkan demam ruam sesak urine gelap atau nyeri",
+                        "ikuti kontrol dan pemeriksaan sesuai instruksi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "jelaskan kemungkinan reaksi tertunda; laporkan demam ruam sesak urine gelap atau nyeri; ikuti kontrol dan pemeriksaan sesuai instruksi"
+                }
+            ]
+        },
+        "Verbed": {
+            "status": "siap_dinilai",
+            "source": "06. FORM-03 C (Instrumen Penilaian  Tulis) personal hygiene (7).docx",
+            "notes": "Kunci jawaban dan indikator dipetakan per nomor. Penilaian menggunakan kecocokan konsep, bukan harus sama kata per kata.",
+            "questions": [
+                {
+                    "answer": "menyiapkan tempat tidur adalah menata tempat tidur dan linen untuk kebersihan keamanan dan kenyamanan pasien; mendukung perawatan dan mencegah komplikasi",
+                    "keywords": [
+                        "menyiapkan tempat tidur adalah menata tempat tidur dan linen untuk kebersihan keamanan dan kenyamanan pasien",
+                        "mendukung perawatan dan mencegah komplikasi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "menyiapkan tempat tidur adalah menata tempat tidur dan linen untuk kebersihan keamanan dan kenyamanan pasien; mendukung perawatan dan mencegah komplikasi"
+                },
+                {
+                    "answer": "closed bed untuk tempat tidur kosong; open bed siap menerima pasien; occupied bed saat pasien tetap di tempat tidur; postoperative bed untuk pasien pascaoperasi",
+                    "keywords": [
+                        "closed bed untuk tempat tidur kosong",
+                        "open bed siap menerima pasien",
+                        "occupied bed saat pasien tetap di tempat tidur",
+                        "postoperative bed untuk pasien pascaoperasi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "closed bed untuk tempat tidur kosong; open bed siap menerima pasien; occupied bed saat pasien tetap di tempat tidur; postoperative bed untuk pasien pascaoperasi"
+                },
+                {
+                    "answer": "sprei besar; perlak dan stik laken; sarung bantal; selimut; linen tambahan; sarung tangan dan kantong linen kotor",
+                    "keywords": [
+                        "sprei besar",
+                        "perlak dan stik laken",
+                        "sarung bantal",
+                        "selimut",
+                        "linen tambahan",
+                        "sarung tangan dan kantong linen kotor"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "sprei besar; perlak dan stik laken; sarung bantal; selimut; linen tambahan; sarung tangan dan kantong linen kotor"
+                },
+                {
+                    "answer": "bersih aman nyaman rapi dan bebas kerutan; gunakan ergonomi dan pencegahan infeksi",
+                    "keywords": [
+                        "bersih aman nyaman rapi dan bebas kerutan",
+                        "gunakan ergonomi dan pencegahan infeksi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "bersih aman nyaman rapi dan bebas kerutan; gunakan ergonomi dan pencegahan infeksi"
+                },
+                {
+                    "answer": "jelaskan tindakan dan jaga privasi; cuci tangan dan gunakan APD; miringkan pasien dengan aman; gulung linen kotor ke dalam; pasang linen bersih bertahap; rapikan dan evaluasi",
+                    "keywords": [
+                        "jelaskan tindakan dan jaga privasi",
+                        "cuci tangan dan gunakan APD",
+                        "miringkan pasien dengan aman",
+                        "gulung linen kotor ke dalam",
+                        "pasang linen bersih bertahap",
+                        "rapikan dan evaluasi"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "jelaskan tindakan dan jaga privasi; cuci tangan dan gunakan APD; miringkan pasien dengan aman; gulung linen kotor ke dalam; pasang linen bersih bertahap; rapikan dan evaluasi"
+                },
+                {
+                    "answer": "lipat linen tanpa dikibaskan; jauhkan linen dari seragam dan lantai; pasang dari sisi jauh ke dekat; gunakan postur tubuh dan tinggi tempat tidur yang ergonomis",
+                    "keywords": [
+                        "lipat linen tanpa dikibaskan",
+                        "jauhkan linen dari seragam dan lantai",
+                        "pasang dari sisi jauh ke dekat",
+                        "gunakan postur tubuh dan tinggi tempat tidur yang ergonomis"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "lipat linen tanpa dikibaskan; jauhkan linen dari seragam dan lantai; pasang dari sisi jauh ke dekat; gunakan postur tubuh dan tinggi tempat tidur yang ergonomis"
+                },
+                {
+                    "answer": "identifikasi dan jelaskan tindakan; kaji kondisi pasien serta alat terpasang; cuci tangan; siapkan alat dan jaga privasi",
+                    "keywords": [
+                        "identifikasi dan jelaskan tindakan",
+                        "kaji kondisi pasien serta alat terpasang",
+                        "cuci tangan",
+                        "siapkan alat dan jaga privasi"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "identifikasi dan jelaskan tindakan; kaji kondisi pasien serta alat terpasang; cuci tangan; siapkan alat dan jaga privasi"
+                },
+                {
+                    "answer": "cuci tangan dan APD; jangan mengibaskan linen; gulung bagian kotor ke dalam; pisahkan linen bersih dan kotor; masukkan linen kotor ke wadah yang sesuai",
+                    "keywords": [
+                        "cuci tangan dan APD",
+                        "jangan mengibaskan linen",
+                        "gulung bagian kotor ke dalam",
+                        "pisahkan linen bersih dan kotor",
+                        "masukkan linen kotor ke wadah yang sesuai"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "cuci tangan dan APD; jangan mengibaskan linen; gulung bagian kotor ke dalam; pisahkan linen bersih dan kotor; masukkan linen kotor ke wadah yang sesuai"
+                },
+                {
+                    "answer": "kondisi dan toleransi pasien; risiko jatuh; jalur infus drain kateter dan oksigen; gunakan bantuan petugas dan alat pindah; kunci roda",
+                    "keywords": [
+                        "kondisi dan toleransi pasien",
+                        "risiko jatuh",
+                        "jalur infus drain kateter dan oksigen",
+                        "gunakan bantuan petugas dan alat pindah",
+                        "kunci roda"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "kondisi dan toleransi pasien; risiko jatuh; jalur infus drain kateter dan oksigen; gunakan bantuan petugas dan alat pindah; kunci roda"
+                },
+                {
+                    "answer": "linen kencang rata kering dan bebas kerutan; bantal dan selimut nyaman; posisi pasien aman; bel panggil terjangkau; rail dan roda sesuai kebutuhan",
+                    "keywords": [
+                        "linen kencang rata kering dan bebas kerutan",
+                        "bantal dan selimut nyaman",
+                        "posisi pasien aman",
+                        "bel panggil terjangkau",
+                        "rail dan roda sesuai kebutuhan"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "linen kencang rata kering dan bebas kerutan; bantal dan selimut nyaman; posisi pasien aman; bel panggil terjangkau; rail dan roda sesuai kebutuhan"
+                },
+                {
+                    "answer": "linen basah kotor atau berkerut; roda tidak terkunci; rail tidak sesuai; menarik selang atau membuat pasien jatuh; postur petugas tidak ergonomis",
+                    "keywords": [
+                        "linen basah kotor atau berkerut",
+                        "roda tidak terkunci",
+                        "rail tidak sesuai",
+                        "menarik selang atau membuat pasien jatuh",
+                        "postur petugas tidak ergonomis"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "linen basah kotor atau berkerut; roda tidak terkunci; rail tidak sesuai; menarik selang atau membuat pasien jatuh; postur petugas tidak ergonomis"
+                },
+                {
+                    "answer": "pasien aman dan nyaman; tempat tidur bersih kering dan rapi; roda terkunci; rail sesuai kebutuhan; alat dan bel panggil terjangkau",
+                    "keywords": [
+                        "pasien aman dan nyaman",
+                        "tempat tidur bersih kering dan rapi",
+                        "roda terkunci",
+                        "rail sesuai kebutuhan",
+                        "alat dan bel panggil terjangkau"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "pasien aman dan nyaman; tempat tidur bersih kering dan rapi; roda terkunci; rail sesuai kebutuhan; alat dan bel panggil terjangkau"
+                },
+                {
+                    "answer": "tanggal waktu dan jenis tindakan; kondisi kulit dan kenyamanan pasien; temuan atau masalah; tindakan lanjutan; nama atau paraf petugas",
+                    "keywords": [
+                        "tanggal waktu dan jenis tindakan",
+                        "kondisi kulit dan kenyamanan pasien",
+                        "temuan atau masalah",
+                        "tindakan lanjutan",
+                        "nama atau paraf petugas"
+                    ],
+                    "min_keywords": 3,
+                    "weight": 1,
+                    "indicator": "tanggal waktu dan jenis tindakan; kondisi kulit dan kenyamanan pasien; temuan atau masalah; tindakan lanjutan; nama atau paraf petugas"
+                },
+                {
+                    "answer": "gunakan bel panggil bila butuh bantuan; jaga linen kering dan rapi; hindari turun sendiri bila berisiko jatuh; laporkan kerusakan atau ketidaknyamanan",
+                    "keywords": [
+                        "gunakan bel panggil bila butuh bantuan",
+                        "jaga linen kering dan rapi",
+                        "hindari turun sendiri bila berisiko jatuh",
+                        "laporkan kerusakan atau ketidaknyamanan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "gunakan bel panggil bila butuh bantuan; jaga linen kering dan rapi; hindari turun sendiri bila berisiko jatuh; laporkan kerusakan atau ketidaknyamanan"
+                }
+            ]
+        }
+    },
+    "PK2": {
+        "Umum": {
+            "status": "siap_dinilai",
+            "source": "Form Asesmen PK 2/Form Asesmen PK2 dan PK3.xlsx",
+            "notes": "Indikator umum PK2/PK3 dipetakan per nomor.",
+            "questions": [
+                {
+                    "answer": "Identitas asesi asesor dan tanggal asesmen ditulis lengkap dan sesuai data penugasan",
+                    "keywords": [
+                        "Identitas asesi asesor dan tanggal asesmen ditulis lengkap dan sesuai data penugasan"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Identitas asesi asesor dan tanggal asesmen ditulis lengkap dan sesuai data penugasan"
+                },
+                {
+                    "answer": "Unit atau kelompok unit kompetensi ditulis sesuai tahap asesmen yang diajukan",
+                    "keywords": [
+                        "Unit atau kelompok unit kompetensi ditulis sesuai tahap asesmen yang diajukan"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Unit atau kelompok unit kompetensi ditulis sesuai tahap asesmen yang diajukan"
+                },
+                {
+                    "answer": "Metode asesmen mencakup metode yang disepakati seperti observasi lisan tertulis atau portofolio",
+                    "keywords": [
+                        "Metode asesmen mencakup metode yang disepakati seperti observasi lisan tertulis atau portofolio"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Metode asesmen mencakup metode yang disepakati seperti observasi lisan tertulis atau portofolio"
+                },
+                {
+                    "answer": "Elemen kompetensi dan kriteria unjuk kerja ditulis sesuai unit kompetensi yang dinilai",
+                    "keywords": [
+                        "Elemen kompetensi dan kriteria unjuk kerja ditulis sesuai unit kompetensi yang dinilai"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Elemen kompetensi dan kriteria unjuk kerja ditulis sesuai unit kompetensi yang dinilai"
+                },
+                {
+                    "answer": "Asesi memahami proses asesmen; asesi memahami metode yang digunakan",
+                    "keywords": [
+                        "Asesi memahami proses asesmen",
+                        "asesi memahami metode yang digunakan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Asesi memahami proses asesmen; asesi memahami metode yang digunakan"
+                },
+                {
+                    "answer": "Catatan kebutuhan khusus atau penyesuaian ditulis jelas; bila tidak ada dinyatakan tidak ada",
+                    "keywords": [
+                        "Catatan kebutuhan khusus atau penyesuaian ditulis jelas",
+                        "bila tidak ada dinyatakan tidak ada"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Catatan kebutuhan khusus atau penyesuaian ditulis jelas; bila tidak ada dinyatakan tidak ada"
+                },
+                {
+                    "answer": "Keputusan akhir dipilih secara jelas yaitu Kompeten Belum Kompeten atau Penilaian Lanjutan",
+                    "keywords": [
+                        "Keputusan akhir dipilih secara jelas yaitu Kompeten Belum Kompeten atau Penilaian Lanjutan"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Keputusan akhir dipilih secara jelas yaitu Kompeten Belum Kompeten atau Penilaian Lanjutan"
+                }
+            ]
+        }
+    },
+    "PK3": {
+        "Umum": {
+            "status": "siap_dinilai",
+            "source": "Form Asesmen PK 2/Form Asesmen PK2 dan PK3.xlsx",
+            "notes": "Indikator umum PK2/PK3 dipetakan per nomor.",
+            "questions": [
+                {
+                    "answer": "Identitas asesi asesor dan tanggal asesmen ditulis lengkap dan sesuai data penugasan",
+                    "keywords": [
+                        "Identitas asesi asesor dan tanggal asesmen ditulis lengkap dan sesuai data penugasan"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Identitas asesi asesor dan tanggal asesmen ditulis lengkap dan sesuai data penugasan"
+                },
+                {
+                    "answer": "Unit atau kelompok unit kompetensi ditulis sesuai tahap asesmen yang diajukan",
+                    "keywords": [
+                        "Unit atau kelompok unit kompetensi ditulis sesuai tahap asesmen yang diajukan"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Unit atau kelompok unit kompetensi ditulis sesuai tahap asesmen yang diajukan"
+                },
+                {
+                    "answer": "Metode asesmen mencakup metode yang disepakati seperti observasi lisan tertulis atau portofolio",
+                    "keywords": [
+                        "Metode asesmen mencakup metode yang disepakati seperti observasi lisan tertulis atau portofolio"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Metode asesmen mencakup metode yang disepakati seperti observasi lisan tertulis atau portofolio"
+                },
+                {
+                    "answer": "Elemen kompetensi dan kriteria unjuk kerja ditulis sesuai unit kompetensi yang dinilai",
+                    "keywords": [
+                        "Elemen kompetensi dan kriteria unjuk kerja ditulis sesuai unit kompetensi yang dinilai"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Elemen kompetensi dan kriteria unjuk kerja ditulis sesuai unit kompetensi yang dinilai"
+                },
+                {
+                    "answer": "Asesi memahami proses asesmen; asesi memahami metode yang digunakan",
+                    "keywords": [
+                        "Asesi memahami proses asesmen",
+                        "asesi memahami metode yang digunakan"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Asesi memahami proses asesmen; asesi memahami metode yang digunakan"
+                },
+                {
+                    "answer": "Catatan kebutuhan khusus atau penyesuaian ditulis jelas; bila tidak ada dinyatakan tidak ada",
+                    "keywords": [
+                        "Catatan kebutuhan khusus atau penyesuaian ditulis jelas",
+                        "bila tidak ada dinyatakan tidak ada"
+                    ],
+                    "min_keywords": 2,
+                    "weight": 1,
+                    "indicator": "Catatan kebutuhan khusus atau penyesuaian ditulis jelas; bila tidak ada dinyatakan tidak ada"
+                },
+                {
+                    "answer": "Keputusan akhir dipilih secara jelas yaitu Kompeten Belum Kompeten atau Penilaian Lanjutan",
+                    "keywords": [
+                        "Keputusan akhir dipilih secara jelas yaitu Kompeten Belum Kompeten atau Penilaian Lanjutan"
+                    ],
+                    "min_keywords": 1,
+                    "weight": 1,
+                    "indicator": "Keputusan akhir dipilih secara jelas yaitu Kompeten Belum Kompeten atau Penilaian Lanjutan"
+                }
+            ]
+        }
+    }
+}

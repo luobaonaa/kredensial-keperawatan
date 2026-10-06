@@ -1,0 +1,6 @@
+USE db_keperawatan;
+
+ALTER TABLE users
+    ADD COLUMN nama VARCHAR(150) DEFAULT NULL AFTER role,
+    ADD COLUMN gelar VARCHAR(100) DEFAULT NULL AFTER nama,
+    ADD COLUMN foto_profil VARCHAR(255) DEFAULT NULL AFTER gelar;

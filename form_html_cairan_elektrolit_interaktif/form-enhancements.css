@@ -1,0 +1,28 @@
+html { background:linear-gradient(135deg,#eef8f8,#f5f7fb 55%,#eef2ff); }
+body { color:#17212b; font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif !important; }
+.word-document { border:1px solid #dbe5ea; border-radius:20px; padding:34px clamp(18px,4vw,48px); box-shadow:0 18px 55px rgba(15,55,70,.12); }
+.word-document table { border-collapse:separate !important; border-spacing:0; width:100% !important; min-width:0 !important; border:1px solid #dbe5ea; border-radius:14px; }
+.word-document td,.word-document th { border-color:#e3eaee !important; vertical-align:top; }
+.form-textarea,.form-control-line { border:1px solid #cbd8df; border-radius:10px; background:#fbfdfd; min-height:44px; padding:10px 12px; }
+.form-control-line { height:44px; border-bottom:1px solid #cbd8df; }
+.form-textarea:focus,.form-control-line:focus,select:focus { outline:3px solid rgba(15,155,157,.18); border-color:#0f9b9d; background:#fff; }
+.assessor-select { display:block; width:100%; min-width:190px; font:inherit; color:#17212b; }
+.ai-summary-card { margin:28px 0 8px; padding:22px; border:1px solid #cce7e7; border-radius:18px; background:linear-gradient(145deg,#f0ffff,#f8fbff); box-shadow:0 8px 22px rgba(15,155,157,.08); }
+.ai-summary-card h3 { margin:0 0 6px; color:#087f82; font-size:18px; }
+.ai-summary-card p { color:#667085; margin:0 0 14px; font-size:13px; }
+.ai-summary-card textarea { min-height:120px; background:#fff; }
+.score-row { display:flex; gap:14px; align-items:end; flex-wrap:wrap; margin-top:14px; }
+.score-box { min-width:180px; }
+.score-box label { display:block; font-weight:700; font-size:13px; margin-bottom:6px; }
+.score-box input { width:100%; box-sizing:border-box; padding:12px; border:1px solid #b9d7d8; border-radius:10px; font-size:20px; font-weight:800; color:#087f82; }
+.ai-note { font-size:12px; color:#667085; }
+/* Jangan tampilkan setiap sel hasil konversi Word sebagai kotak kecil. */
+.word-document textarea.form-textarea.compact { border:0 !important; background:transparent !important; box-shadow:none !important; resize:none; padding:0 !important; min-height:24px; color:inherit; }
+.word-document textarea.form-textarea.compact:focus { outline:0 !important; background:transparent !important; }
+.word-document > textarea.form-textarea, .word-document td > textarea.form-textarea { border:0 !important; background:transparent !important; box-shadow:none !important; resize:none; padding:0 !important; min-height:24px; }
+.ai-summary-card textarea.form-textarea { border:1px solid #cbd8df !important; background:#fff !important; padding:10px 12px !important; resize:vertical; min-height:120px; }
+.word-document table td textarea, .word-document table th textarea { background:transparent !important; border:0 !important; box-shadow:none !important; outline:0 !important; resize:none !important; padding:0 !important; min-height:24px !important; }
+.word-document table td textarea:focus, .word-document table th textarea:focus { background:transparent !important; border:0 !important; outline:0 !important; }
+.word-document .form-control-line { background:transparent; box-shadow:none; }
+.word-document table { table-layout:auto; }
+@media(max-width:760px) { .word-document { border-radius:14px; padding:24px 12px; } .word-document table { display:block; overflow-x:auto; } .word-document table tbody { min-width:640px; display:table; width:100%; } }

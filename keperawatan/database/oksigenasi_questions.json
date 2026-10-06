@@ -1,0 +1,90 @@
+[
+  {
+    "type": "essay",
+    "text": "1.1 Jelaskan pengertian oksigenasi dan tujuan pemenuhan kebutuhan oksigen pasien!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.2 Sebutkan minimal 3 faktor yang mempengaruhi kebutuhan oksigenasi!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.3 Jelaskan tanda dan gejala pasien yang mengalami kekurangan oksigen!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "2.1 Alat yang digunakan untuk mengukur saturasi oksigen perifer adalah:",
+    "options": [
+      "Sphygmomanometer",
+      "Pulse oximeter",
+      "Termometer",
+      "Stetoskop",
+      "Glukometer"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "2.2 Jelaskan pengkajian sistem pernapasan yang harus dilakukan sebelum memberikan oksigen!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "2.3 Sebutkan jenis alat pemberian oksigen dan perkiraan aliran oksigen masing-masing!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "3.1 Posisi yang umumnya membantu meningkatkan ekspansi paru pasien sesak adalah:",
+    "options": [
+      "Trendelenburg",
+      "Supine datar",
+      "Semi-Fowler atau Fowler",
+      "Litotomi",
+      "Prone tanpa pemantauan"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "3.2 Jelaskan prosedur pemasangan kanul nasal sesuai prinsip keselamatan pasien!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "3.3 Apa saja hal yang harus dipantau selama pasien mendapatkan terapi oksigen?",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.1 Jelaskan bahaya penggunaan oksigen dan tindakan pencegahan kebakaran yang harus dilakukan!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.2 Jelaskan tindakan perawat bila saturasi oksigen pasien tidak meningkat setelah terapi oksigen diberikan!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "4.3 Evaluasi utama setelah pemberian oksigen adalah:",
+    "options": [
+      "Warna dan kondisi kulit saja",
+      "Saturasi oksigen, frekuensi napas, dan respons pasien",
+      "Jumlah makanan yang dihabiskan",
+      "Waktu tidur pasien",
+      "Berat badan pasien"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "5.1 Sebutkan dokumentasi yang wajib dicatat setelah memberikan terapi oksigen!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "5.2 Jelaskan edukasi yang perlu diberikan kepada pasien dan keluarga selama penggunaan oksigen di rumah!",
+    "options": []
+  }
+]

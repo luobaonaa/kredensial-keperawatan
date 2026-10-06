@@ -1,0 +1,1 @@
+<?php $_GET['tahap'] = 'PK2'; require 'tahap.php'; ?>

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "essay",
+    "text": "1.1 Jelaskan pengertian nyeri dan tujuan pengelolaan nyeri dengan bantuan obat!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.2 Sebutkan minimal 3 faktor yang dapat mempengaruhi persepsi nyeri pasien!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.3 Jelaskan pengkajian nyeri dengan metode PQRST!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "2.1 Skala nyeri numerik yang paling sering digunakan meminta pasien memilih angka:",
+    "options": [
+      "0 sampai 5",
+      "0 sampai 10",
+      "1 sampai 20",
+      "10 sampai 100",
+      "Tidak menggunakan angka"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "2.2 Sebutkan hal-hal yang harus diverifikasi sebelum memberikan obat analgesik kepada pasien!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "2.3 Jelaskan prinsip benar pemberian obat yang harus diterapkan saat mengelola nyeri!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "3.1 Tindakan paling tepat sebelum memberikan analgesik adalah:",
+    "options": [
+      "Memberikan obat tanpa memeriksa identitas pasien",
+      "Mengkaji nyeri, alergi, dan riwayat penggunaan obat pasien",
+      "Menaikkan dosis agar nyeri cepat hilang",
+      "Menghentikan semua obat rutin pasien",
+      "Memberikan obat yang tersisa dari pasien lain"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "3.2 Jelaskan perbedaan analgesik non-opioid dan opioid serta berikan contohnya!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "3.3 Apa saja tanda efek samping opioid yang harus dipantau perawat?",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.1 Jelaskan edukasi yang perlu diberikan kepada pasien setelah menerima obat penghilang nyeri!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.2 Bagaimana tindakan perawat bila nyeri pasien tetap berat setelah obat diberikan?",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "4.3 Setelah memberikan analgesik, evaluasi efektivitas obat dilakukan dengan cara:",
+    "options": [
+      "Mengukur suhu saja",
+      "Mengkaji ulang intensitas nyeri dan respons pasien",
+      "Menunggu pasien meminta obat berikutnya",
+      "Menghentikan pemantauan tanda vital",
+      "Mengganti obat tanpa konsultasi"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "5.1 Sebutkan dokumentasi yang wajib dicatat setelah pengelolaan nyeri dengan bantuan obat!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "5.2 Jelaskan cara memastikan keamanan pasien saat pemberian obat nyeri secara intravena!",
+    "options": []
+  }
+]

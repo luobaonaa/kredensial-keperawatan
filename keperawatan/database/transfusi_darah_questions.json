@@ -1,0 +1,90 @@
+[
+  {
+    "type": "essay",
+    "text": "1.1 Jelaskan pengertian transfusi darah dan tujuan pelaksanaannya!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.2 Sebutkan indikasi dan kontraindikasi relatif pemberian transfusi darah!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.3 Sebutkan persiapan pasien dan peralatan sebelum transfusi darah dilakukan!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "2.1 Pemeriksaan paling penting sebelum darah diberikan kepada pasien adalah:",
+    "options": [
+      "Warna selimut pasien",
+      "Kesesuaian identitas pasien, label darah, golongan darah, dan nomor kantong",
+      "Ukuran tempat tidur",
+      "Jumlah anggota keluarga",
+      "Jenis makanan pasien"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "2.2 Jelaskan prinsip benar dalam pelaksanaan transfusi darah!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "2.3 Mengapa identifikasi pasien harus dilakukan bersama petugas lain sebelum transfusi?",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "3.1 Tanda awal yang dapat menunjukkan reaksi transfusi adalah:",
+    "options": [
+      "Demam, menggigil, nyeri pinggang, atau sesak napas",
+      "Nafsu makan meningkat",
+      "Kulit menjadi lebih bersih",
+      "Pasien tidur nyenyak tanpa keluhan",
+      "Penglihatan membaik"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "3.2 Jelaskan pemantauan pasien pada 15 menit pertama dan selama transfusi darah!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "3.3 Apa tindakan perawat bila pasien menunjukkan tanda reaksi transfusi?",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.1 Jelaskan cara mencegah kontaminasi selama pemberian transfusi darah!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.2 Sebutkan komplikasi yang dapat terjadi selama atau setelah transfusi darah!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "4.3 Bila dicurigai terjadi reaksi transfusi, tindakan pertama adalah:",
+    "options": [
+      "Mempercepat aliran darah",
+      "Menghentikan transfusi dan mempertahankan akses intravena sesuai prosedur",
+      "Membuang kantong darah tanpa laporan",
+      "Memberikan darah tambahan",
+      "Meninggalkan pasien"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "5.1 Sebutkan dokumentasi yang wajib dicatat setelah transfusi darah selesai!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "5.2 Jelaskan edukasi yang perlu diberikan kepada pasien setelah transfusi darah!",
+    "options": []
+  }
+]

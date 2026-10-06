@@ -1,0 +1,90 @@
+[
+  {
+    "type": "essay",
+    "text": "1.1 Jelaskan pengertian obat dan tujuan pemberian obat dalam tindakan keperawatan!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.2 Sebutkan sepuluh benar dalam pemberian obat!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "1.3 Jelaskan faktor-faktor yang harus diperhatikan sebelum memberikan obat kepada pasien!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "2.1 Langkah pertama sebelum memberikan obat kepada pasien adalah:",
+    "options": [
+      "Membuka semua kemasan obat",
+      "Memastikan identitas pasien dan mencocokkannya dengan instruksi obat",
+      "Meminta pasien memilih obat",
+      "Mencampur semua obat dalam satu wadah",
+      "Memberikan obat tanpa membaca label"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "2.2 Sebutkan bentuk sediaan obat yang sering digunakan dan berikan contohnya!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "2.3 Jelaskan cara membaca etiket obat dan memeriksa tanggal kedaluwarsa obat!",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "3.1 Rute pemberian obat yang diserap melalui saluran pencernaan adalah:",
+    "options": [
+      "Intradermal",
+      "Subkutan",
+      "Oral",
+      "Intramuskular",
+      "Intravena"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "3.2 Sebutkan cara pemberian obat melalui rute oral, topikal, inhalasi, dan parenteral!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "3.3 Jelaskan prinsip keselamatan saat menyiapkan obat injeksi!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.1 Sebutkan reaksi atau efek samping yang dapat terjadi setelah pemberian obat!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "4.2 Apa tindakan perawat bila pasien menunjukkan tanda reaksi alergi setelah pemberian obat?",
+    "options": []
+  },
+  {
+    "type": "single",
+    "text": "4.3 Pemberian obat harus dihentikan dan segera dilaporkan bila pasien mengalami:",
+    "options": [
+      "Rasa nyaman setelah obat diberikan",
+      "Reaksi alergi berat atau gangguan napas",
+      "Nafsu makan meningkat",
+      "Tidur sesuai jadwal",
+      "Tidak ada keluhan"
+    ]
+  },
+  {
+    "type": "essay",
+    "text": "5.1 Jelaskan edukasi yang harus diberikan kepada pasien setelah menerima obat!",
+    "options": []
+  },
+  {
+    "type": "essay",
+    "text": "5.2 Sebutkan dokumentasi yang wajib dicatat setelah pemberian obat!",
+    "options": []
+  }
+]
